@@ -93,10 +93,8 @@ def tag_by_line(psd, pd):
     @param psd: file with part-of-speech info (NAF format)
     @param pd: dict with positions per line
     """
-    print "XXXXX", os.path.splitext(os.path.basename(psd))[0]
     title = os.path.splitext(os.path.basename(psd))[0].replace("_parsed", ".txt")
     # title = os.path.splitext(os.path.basename(psd))[0].replace(".xml", ".txt")
-    #title = "input.txt"
     title = title if isinstance(title, unicode) else title.decode("utf8")
     assert title in pd
     tree = np(psd)
