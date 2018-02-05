@@ -41,7 +41,7 @@ def run_argparse():
         description="Apply enjambment detection to NLP output",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('-i', '--input',
-                        help='Input dir (contains PoS and term-id annotations',
+                        help='Input directory containing plain-text poems to annotate',
                         dest='inname',
                         default=os.path.relpath(os.path.join(
                             os.path.join(cfg.baseoutdir, partargs.batchname),
@@ -63,13 +63,13 @@ def run_argparse():
                             os.path.join(cfg.baseoutdir, partargs.batchname),
                             cfg.nlpdir.format(batch=partargs.batchname))))
     parser.add_argument('-p', '--posdir', dest='posdir',
-                        help='Output dir, will contain poem with each token'
-                             'annotated with a POS and term-id',
+                        help='PoS directory: Will contain poem with each token'
+                             ' annotated with part-of-speech, and term-id',
                         default=os.path.relpath(os.path.join(
                             os.path.join(cfg.baseoutdir, partargs.batchname),
                             cfg.tokwpos.format(batch=partargs.batchname))))
     parser.add_argument('-o', '--outdir', dest='outdir',
-                        help='Output dir: poem with encabalgamiento annots',
+                        help='Output dir: poem with enjambment annotations',
                         default=os.path.join(
                             os.path.relpath(os.path.join(cfg.baseoutdir, partargs.batchname),
                             cfg.resudir.format(batch=partargs.batchname,

@@ -30,7 +30,7 @@ That will execute `run_anja.py` using _batch-001_ as the batch name, outputting 
 
 For more detailed usage, the modules can be used independently as long as the input requirements are respected.
 
-Each module has a help file, that can be accessed with the `-h` option: `module_name -h`
+Each module has a help file, that can be accessed with the `-h` option: `python module_name -h`
  
 For instance, the help file for `run_anja.py` is the following:
 
@@ -78,9 +78,9 @@ If no paths are given, the Python modules provide default input and output locat
 
 ### ANJA workflow
 
-- **prepro/prepro.py** takes plain text poems and will output (1) a list of the positions (offsets) for each poem's line, and a version of the poem where the complete text is on a single line. This is a preprocessing step intended to make NLP analysis easier. 
+- **prepro/prepro.py** takes plain text poems and will output a list of the positions (start and end) for each poem's line, and a version of the poem where the complete text is on a single line. This is a preprocessing step intended to make NLP analysis easier. 
 
-- **extract_pos.py** requires NAF files (e.g. from IXA pipes) for each poem and creates a human readable pos-tagged version (optionally with term-ids) for each poem.
+- **extract_pos.py** requires NAF files (e.g. from IXA pipes) for each poem and creates a pos-tagged version for each poem, more easily readable by humans than IXA-pipes outputs.
 
 - **detect.py** requires the output of *extract_pos.py*. It contains enjambment detection **rules** and runs enjambment detection, creating the outputs described below. 
 
@@ -92,7 +92,7 @@ If no paths are given, the Python modules provide default input and output locat
 
 - Many more details about this are given in the [project's site](https://sites.google.com/site/spanishenjambment/annotation-and-result-format)
 
-- In the output folder (see _data/sample/out/out_) in the repository, you'll see an individual file for each input file, besides aggregated results for the complete batch.
+- In the output folder (see _data/sample/out/out_ in the repository) you'll see an individual file for each input file, besides aggregated results for the complete batch.
 
 - The aggregated files contain (by default) the batch name and _corpus_results_ in their name. Several formats are output:
     - **.txt**: raw output (can be used for grepping), containing poem-line and enjambment tags (if any)
