@@ -92,7 +92,7 @@ def main():
 
     # run nlp
 
-    nlpcmd = "{} {} {} def".format(
+    nlpcmd = "{} {} {} def deponly".format(
         cfg.nlprunner, argus.prepro, argus.nlpdir)
     print("- Run NLP: [{}]\n".format(nlpcmd))
     os.popen(nlpcmd)
