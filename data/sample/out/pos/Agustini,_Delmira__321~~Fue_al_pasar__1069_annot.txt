@@ -1,0 +1,14 @@
+{Yo Q t1} {creí V t2} {que C t3} {tus D t4} {ojos N t5} {anegaban V t6} {el D t7} {mundo N t8} {... O t9}
+{Abiertos N t10} {como C t11} {bocas N t12} {en P t13} {clamor N t14} {... O t15} {Tan A t16} {dolientes G t17}
+{que C t18} {un D t19} {corazón N t20} {partido N t21} {en P t22} {dos D t23} {trozos N t24} {ardientes G t25}
+{parecieron V t26} {... O t27} {Fluían V t28} {de P t29} {tu D t30} {rostro N t31} {profundo G t32}
+{como C t33} {dos D t34} {manantiales N t35} {graves G t36} {y C t37} {venenosos G t38} {... O t39}
+{Fraguas R t40} {a P t41} {fuego N t42} {y C t43} {sombra N t44} {, O t45} {¡ O t46} {tus D t47} {pupilas N t48} {! O t49} {... O t50} {tan A t51} {hondas N t52}
+{que C t53} {no A t54} {sé V t55} {desde P t56} {donde C t57} {me Q t58} {miraban V t59} {, O t60} {redondas G t61}
+{y C t62} {oscuras G t63} {como C t64} {mundos N t65} {lontanos G t66} {y C t67} {medrosos G t68} {. O t69}
+{¡ O t70} {Ah O t71} {, O t72} {tus D t73} {ojos N t74} {tristísimos G t75} {como C t76} {dos D t77} {galerías N t78}
+{abiertas G t79} {al P t80} {Poniente R t81} {! O t82} {... O t83} {¡ O t84} {Y C t85} {las D t86} {sendas D t87} {sombrías N t88}
+{de P t89} {tus D t90} {ojeras N t91} {donde Q t92} {reconocí V t93} {mis D t94} {rastros N t95} {! O t96} {... O t97}
+{¡ O t98} {Y C t99} {o C t100} {envolví V t101} {en P t102} {un D t103} {gran G t104} {gesto N t105} {mi D t106} {horror N t107} {como C t108} {en P t109} {un D t110} {velo N t111} {, O t112}
+{y C t113} {me Q t114} {alejé V t115} {creyendo V t116} {que C t117} {cuajaba V t118} {en P t119} {el D t120} {cielo N t121}
+{la D t122} {medianoche N t123} {húmeda G t124} {de P t125} {tu D t126} {mirar V t127} {sin P t128} {astros N t129} {! O t130}

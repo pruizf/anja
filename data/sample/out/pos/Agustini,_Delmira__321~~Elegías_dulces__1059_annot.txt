@@ -1,0 +1,14 @@
+{Hoy A t1} {desde P t2} {el D t3} {gran G t4} {camino N t5} {, O t6} {bajo P t7} {el D t8} {sol N t9} {claro G t10} {y C t11} {fuerte G t12} {, O t13}
+{muda G t14} {como C t15} {una D t16} {lágrima N t17} {he V t18} {mirado V t19} {hacia P t20} {atrás A t21} {. O t22}
+{Y C t23} {tu D t24} {voz N t25} {, O t26} {de P t27} {mi D t28} {lejos A t29} {, O t30} {con P t31} {un D t32} {olor N t33} {de P t34} {muerte N t35} {, O t36}
+{vino V t37} {a P t38} {aullarme V t39} {al P t40} {oído V t41} {un D t42} {triste G t43} {" O t44} {¡ O t45} {Nunca A t46} {más A t47} {! O t48} {" O t49}
+{Tan A t50} {triste G t51} {, O t52} {que Q t53} {he V t54} {llorado V t55} {hasta P t56} {quedar V t57} {inerte N t58} {... O t59}
+{¡ O t60} {Yo Q t61} {sé V t62} {que C t63} {estás V t64} {tan A t65} {lejos A t66} {que C t67} {nunca A t68} {volverás V t69} {! O t70}
+{No A t71} {hay V t72} {lágrimas N t73} {que Q t74} {laven V t75} {los D t76} {besos N t77} {de P t78} {la D t79} {Muerte R t80} {... O t81}
+{Almas Q t82} {, O t83} {hermanas N t84} {mías G t85} {, O t86} {nunca A t87} {miréis V t88} {atrás A t89} {! O t90}
+{Los D t91} {pasados G t92} {se Q t93} {cierran V t94} {como C t95} {los D t96} {ataúdes N t97} {; O t98}
+{al P t99} {otoño N t100} {las D t101} {hojas N t102} {en P t103} {dorados G t104} {aludes N t105}
+{ruedan V t106} {... O t107} {y C t108} {arde V t109} {en P t110} {los D t111} {troncos N t112} {la D t113} {nueva G t114} {floración N t115} {... O t116}
+{Las D t117} {noches N t118} {son V t119} {caminos N t120} {negros G t121} {de P t122} {las D t123} {auroras N t124} {... O t125}
+{Oyendo V t126} {deshojarse V t127} {tristemente A t128} {las D t129} {horas N t130}
+{dulces G t131} {, O t132} {hablemos V t133} {de P t134} {otras D t135} {flores N t136} {al P t137} {corazón N t138} {. O t139}

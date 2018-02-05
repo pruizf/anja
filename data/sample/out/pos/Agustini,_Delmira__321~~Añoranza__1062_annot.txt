@@ -1,0 +1,14 @@
+{Íbamos V t1} {en P t2} {la D t3} {tarde N t4} {que Q t5} {caía V t6}
+{rápidamente A t7} {sobre P t8} {los D t9} {caminos N t10} {. O t11}
+{Su D t12} {belleza N t13} {, O t14} {algo Q t15} {exótica G t16} {, O t17} {ponía V t18}
+{aspavientos N t19} {en P t20} {ojos N t21} {campesinos G t22} {. O t23}
+{-Gozaremos V t24} {el D t25} {libro N t26} {- O t27} {me Q t28} {decía V t29}
+{de P t30} {tus D t31} {epigramáticos G t32} {y C t33} {finos G t34}
+{versos N t35} {. O t36} {En P t37} {el D t38} {crepúsculo N t39} {moría V t40}
+{un D t41} {desfile N t42} {de P t43} {pájaros N t44} {marinos N t45} {... O t46}
+{Debajo A t47} {de P t48} {nosotros Q t49} {, O t50} {la D t51} {espesura N t52}
+{aprisionaba V t53} {en P t54} {forma N t55} {de P t56} {herradura N t57}
+{la D t58} {población N t59} {. O t60} {Y C t61} {de P t62} {un D t63} {charco N t64} {amarillo G t65}
+{surgió V t66} {la D t67} {luna N t68} {de P t69} {color N t70} {de P t71} {argento N t72} {, O t73}
+{y C t74} {a P t75} {lo D t76} {lejos A t77} {, O t78} {con P t79} {un D t80} {recogimiento N t81}
+{sentimental G t82} {, O t83} {lloraba V t84} {un D t85} {caramillo N t86} {... O t87}

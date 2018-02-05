@@ -1,0 +1,14 @@
+{Hoy A} {desde P} {el D} {gran G} {camino N} {, O} {bajo P} {el D} {sol N} {claro G} {y C} {fuerte G} {, O}	O		
+{muda G} {como C} {una D} {lágrima N} {he V} {mirado V} {hacia P} {atrás A} {. O}	O		
+{Y C} {tu D} {voz N} {, O} {de P} {mi D} {lejos A} {, O} {con P} {un D} {olor N} {de P} {muerte N} {, O}	O		
+{vino V} {a P} {aullarme V} {al P} {oído V} {un D} {triste G} {" O} {¡ O} {Nunca A} {más A} {! O} {" O}	O		
+{Tan A} {triste G} {, O} {que Q} {he V} {llorado V} {hasta P} {quedar V} {inerte N} {... O}	O		
+{¡ O} {Yo Q} {sé V} {que C} {estás V} {tan A} {lejos A} {que C} {nunca A} {volverás V} {! O}	O		
+{No A} {hay V} {lágrimas N} {que Q} {laven V} {los D} {besos N} {de P} {la D} {Muerte R} {... O}	O		
+{Almas Q} {, O} {hermanas N} {mías G} {, O} {nunca A} {miréis V} {atrás A} {! O}	O		
+{Los D} {pasados G} {se Q} {cierran V} {como C} {los D} {ataúdes N} {; O}	O		
+{al P} {otoño N} {las D} {hojas N} {en P} {dorados G} {aludes N}	B	enlace_subj_verb	ld01
+{ruedan V} {... O} {y C} {arde V} {en P} {los D} {troncos N} {la D} {nueva G} {floración N} {... O}	I	enlace_subj_verb	ld01
+{Las D} {noches N} {son V} {caminos N} {negros G} {de P} {las D} {auroras N} {... O}	O		
+{Oyendo V} {deshojarse V} {tristemente A} {las D} {horas N}	B	sirrem_adj_noun	pp02
+{dulces G} {, O} {hablemos V} {de P} {otras D} {flores N} {al P} {corazón N} {. O}	I	sirrem_adj_noun	pp02

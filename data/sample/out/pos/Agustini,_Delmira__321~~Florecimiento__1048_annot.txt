@@ -1,0 +1,14 @@
+{La D t1} {noche N t2} {entró V t3} {en P t4} {la D t5} {sal N t6} {adormecida G t7}
+{arrastrando V t8} {el D t9} {silencio N t10} {a P t11} {pasos N t12} {lentos G t13} {... O t14}
+{Los D t15} {sueños N t16} {son V t17} {tan A t18} {quedos G t19} {, O t20} {que Q t21} {una D t22} {herida N t23}
+{sangrar V t24} {se Q t25} {oiría V t26} {. O t27} {Rueda V t28} {en P t29} {los D t30} {momentos N t31}
+{una D t32} {palabra N t33} {insólita G t34} {, O t35} {caída N t36}
+{como C t37} {una D t38} {hoja N t39} {de P t40} {otoño N t41} {... O t42} {Pensamientos N t43}
+{suaves G t44} {tocan V t45} {mi D t46} {frente A t47} {dolorida G t48}
+{tal D t49} {manos N t50} {frescas G t51} {, O t52} {¡ O t53} {ah O t54} {! O t55} {... O t56} {¿ O t57} {por P t58} {qué Q t59} {tormentos N t60}
+{misteriosos G t61} {los D t62} {rostros N t63} {palidecen V t64}
+{dulcemente A t65} {? O t66} {... O t67} {Tus N t68} {ojos N t69} {me Q t70} {parecen V t71}
+{dos D t72} {semillas N t73} {de P t74} {luz N t75} {entre P t76} {las D t77} {sombra N t78} {, O t79}
+{y C t80} {hay V t81} {en P t82} {mi D t83} {alma N t84} {un D t85} {gran G t86} {florecimiento N t87}
+{si C t88} {en P t89} {mí Q t90} {los D t91} {fijas G t92} {; O t93} {si C t94} {los D t95} {bajas N t96} {, O t97} {siento V t98}
+{como C t99} {si C t100} {fuera V t101} {a P t102} {florecer V t103} {la D t104} {alfombra N t105} {. O t106}

@@ -1,0 +1,14 @@
+{La D} {noche N} {entró V} {en P} {la D} {sal N} {adormecida G}	O		
+{arrastrando V} {el D} {silencio N} {a P} {pasos N} {lentos G} {... O}	O		
+{Los D} {sueños N} {son V} {tan A} {quedos G} {, O} {que Q} {una D} {herida N}	B	enlace_subj_verb	ld01
+{sangrar V} {se Q} {oiría V} {. O} {Rueda V} {en P} {los D} {momentos N}	IB	enlace_subj_verb;enlace_subj_verb	ld01;ld01
+{una D} {palabra N} {insólita G} {, O} {caída N}	I	enlace_subj_verb	ld01
+{como C} {una D} {hoja N} {de P} {otoño N} {... O} {Pensamientos N}	B	sirrem_adj_noun	pp02
+{suaves G} {tocan V} {mi D} {frente A} {dolorida G}	IB	sirrem_adj_noun;enlace_od_verb	pp02;ld02
+{tal D} {manos N} {frescas G} {, O} {¡ O} {ah O} {! O} {... O} {¿ O} {por P} {qué Q} {tormentos N}	IB	enlace_od_verb;sirrem_adj_noun	ld02;pp02
+{misteriosos G} {los D} {rostros N} {palidecen V}	IB	sirrem_adj_noun;sirrem_verb_adv	pp02;pp11
+{dulcemente A} {? O} {... O} {Tus N} {ojos N} {me Q} {parecen V}	I	sirrem_verb_adv	pp11
+{dos D} {semillas N} {de P} {luz N} {entre P} {las D} {sombra N} {, O}	O		
+{y C} {hay V} {en P} {mi D} {alma N} {un D} {gran G} {florecimiento N}	O		
+{si C} {en P} {mí Q} {los D} {fijas G} {; O} {si C} {los D} {bajas N} {, O} {siento V}	O		
+{como C} {si C} {fuera V} {a P} {florecer V} {la D} {alfombra N} {. O}	O		

@@ -1,0 +1,14 @@
+{Yo Q t1} {lo Q t2} {soñé V t3} {impetuoso G t4} {, O t5} {formidable G t6} {y C t7} {ardiente A t8} {; O t9}
+{hablaba V t10} {el D t11} {impreciso G t12} {leguaje N t13} {del P t14} {torrente N t15} {; O t16}
+{era V t17} {un D t18} {mar N t19} {desbordado G t20} {de P t21} {locura N t22} {y C t23} {de P t24} {fuego N t25} {, O t26}
+{rodando V t27} {por P t28} {la D t29} {vida N t30} {como C t31} {un D t32} {eterno G t33} {riego N t34} {. O t35}
+{Luego A t36} {soñélo V t37} {triste G t38} {, O t39} {como C t40} {un D t41} {gran G t42} {sol N t43} {poniente G t44}
+{que Q t45} {dobla V t46} {ante P t47} {la D t48} {noche N t49} {la D t50} {cabeza N t51} {de P t52} {fuego N t53} {; O t54}
+{después A t55} {rió V t56} {, O t57} {y C t58} {en P t59} {su D t60} {boca N t61} {tan A t62} {tierna G t63} {como C t64} {un D t65} {ruego N t66} {, O t67}
+{sonaba V t68} {sus D t69} {cristales N t70} {el D t71} {alma N t72} {de P t73} {la D t74} {fuente N t75} {. O t76}
+{Y C t77} {hoy A t78} {sueño N t79} {que Q t80} {es V t81} {vibrante G t82} {, O t83} {y C t84} {suave G t85} {, O t86} {y C t87} {riente A t88} {, O t89} {y C t90} {triste G t91} {, O t92}
+{que Q t93} {todas D t94} {las D t95} {tinieblas N t96} {y C t97} {todo D t98} {el D t99} {iris N t100} {viste V t101} {; O t102}
+{que C t103} {, O t104} {frágil G t105} {como C t106} {un D t107} {ídolo N t108} {y C t109} {eterno G t110} {como C t111} {un D t112} {Dios R t113} {, O t114}
+{sobre P t115} {la D t116} {vida N t117} {toda D t118} {su D t119} {majestad N t120} {levante V t121} {: O t122}
+{y C t123} {el D t124} {beso N t125} {cae V t126} {ardiente A t127} {a P t128} {perfumar V t129} {su D t130} {planta N t131}
+{en P t132} {una D t133} {flor N t134} {de P t135} {fuego N t136} {deshojada G t137} {por P t138} {dos D t139} {... O t140}

@@ -1,0 +1,5 @@
+#tag	normalized_tag
+# (this applies inside the tag, that's why no need to restrict the regex more)
+oracional_.+	oracional
+_prep-.+	_prep
+pal-rel~.+	pal-rel

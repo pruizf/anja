@@ -1,0 +1,14 @@
+{¡ O} {Si C} {la D} {vida N} {es V} {amor N} {, O} {bendita V} {sea V} {! O}	O		
+{¡ O} {Quiero V} {más A} {vida N} {para P} {amar V} {! O} {Hoy A} {siento V}	B	enlace_od_verb	ld02
+{que C} {no A} {valen V} {mil D} {años N} {de P} {la D} {idea N}	IB	enlace_od_verb;enlace_od_verb	ld02;ld02
+{lo D} {que Q} {un D} {minuto N} {azul G} {del P} {sentimiento N} {. O}	I	enlace_od_verb	ld02
+{Mi D} {corazón N} {moría V} {triste G} {y C} {lento G} {... O}	O		
+{Hoy A} {abre V} {en P} {luz N} {como C} {una D} {flor N} {febea G} {; O}	O		
+{¡ O} {la D} {vida N} {brota G} {como C} {un D} {mar N} {violento G}	B	oracional	cp01
+{donde Q} {la D} {mano N} {del P} {amor N} {golpea V} {! O}	I	oracional	cp01
+{Hoy A} {, O} {partió V} {hacia P} {la D} {noche N} {, O} {triste G} {, O} {fría G} {, O}	O		
+{rotas V} {las D} {alas N} {de P} {mi D} {melancolía N} {; O}	O		
+{como C} {una D} {vieja G} {mancha N} {del P} {dolor N}	O		
+{en P} {la D} {sombra N} {lejana G} {se Q} {deslíe V} {... O}	O		
+{¡ O} {Mi D} {vida N} {toda D} {canta V} {, O} {besa V} {, O} {ríe O} {! O}	O		
+{¡ O} {Mi D} {vida N} {toda D} {es V} {una D} {boca N} {en P} {flor N} {! O}	O		

@@ -1,0 +1,17 @@
+{En P t1} {el D t2} {regazo N t3} {de P t4} {la D t5} {tarde N t6} {triste G t7}
+{yo Q t8} {invoqué V t9} {tu D t10} {dolor N t11} {... O t12} {Sentirlo R t13} {era V t14}
+{¡ O t15} {sentirse V t16} {el D t17} {corazón N t18} {! O t19} {Palideciste R t20}
+{hasta P t21} {la D t22} {voz N t23} {, O t24} {tus D t25} {párpados N t26} {de P t27} {cera N t28} {. O t29}
+{Bajaron V t30} {... O t31} {y C t32} {callaste V t33} {... O t34} {Pareciste V t35}
+{oír V t36} {pasar V t37} {la D t38} {Muerte R t39} {... O t40} {Yo Q t41} {que C t42} {abriera V t43}
+{tu D t44} {herida N t45} {mordí G t46} {en P t47} {ella Q t48} {- O t49} {¿ O t50} {me Q t51} {sentiste V t52} {? O t53} {- O t54}
+{¡ O t55} {Como C t56} {en P t57} {el D t58} {oro N t59} {de P t60} {un D t61} {panal N t62} {mordiera V t63} {! O t64}
+{Y C t65} {exprimí V t66} {más A t67} {, O t68} {traidora V t69} {, O t70} {dulcemente A t71}
+{tu D t72} {corazón N t73} {herido G t74} {mortalmente A t75} {, O t76}
+{por P t77} {la D t78} {cruel G t79} {daga N t80} {rara G t81} {y C t82} {exquisita G t83}
+{de P t84} {un D t85} {mal N t86} {sin P t87} {nombre N t88} {, O t89} {¡ O t90} {hasta P t91} {sangrarlo V t92} {en P t93} {llanto N t94} {! O t95}
+{Y C t96} {las D t97} {mil D t98} {bocas N t99} {de P t100} {mi D t101} {sed N t102} {maldita G t103}
+{tendí V t104} {a P t105} {esa D t106} {fuente N t107} {abierta G t108} {en P t109} {tu D t110} {quebranto G t111} {. O t112}
+{¿ O t113} {Por P t114} {qué Q t115} {fui V t116} {tu D t117} {vampiro N t118} {de P t119} {amargura N t120} {? O t121}
+{¿ O t122} {Soy V t123} {flor N t124} {o C t125} {estirpe N t126} {de P t127} {una D t128} {especie N t129} {oscura G t130}
+{que Q t131} {come V t132} {llagas N t133} {y C t134} {que Q t135} {bebe V t136} {el D t137} {llanto N t138} {? O t139}

@@ -1,0 +1,14 @@
+{Su D} {idilio N} {fue V} {una D} {larga G} {sonrisa N} {a P} {cuatro D} {labios N} {. O}	O		
+{En P} {el D} {regazo N} {cálido G} {de P} {rubia G} {primavera N} {. O}	O		
+{Amáronse R} {talmente A} {que C} {entre P} {sus D} {dedos N} {sabios N}	B	enlace_subj_verb	ld01
+{palpitó V} {la D} {divina G} {forma N} {de P} {la D} {Quimera R} {. O}	I	enlace_subj_verb	ld01
+{En P} {los D} {palacios N} {fúlgidos G} {de P} {las D} {tardes N} {en P} {calma N}	O		
+{hablábanse V} {un D} {lenguaje N} {sentido N} {como C} {un D} {lloro N} {, O}	O		
+{y C} {se Q} {besaban V} {hondo G} {hasta P} {morderse V} {el D} {alma N} {! O}	O		
+{Las D} {horas N} {deshojáronse G} {como C} {flores N} {de P} {oro N} {. O}	O		
+{Y C} {el D} {Destino R} {interpuso V} {sus D} {dos D} {manos N} {heladas N} {... O}	O		
+{¡ O} {Ah O} {! O} {los D} {cuerpos N} {cedieron V} {, O} {mas A} {las D} {almas N} {trenzadas G}	B	enlace_subj_verb	ld01
+{son V} {el D} {más A} {intrincado G} {nudo N} {que Q} {nunca A} {fue V} {. O}	I	enlace_subj_verb	ld01
+{En P} {lucha N} {con P} {sus D} {locos N} {enredos G} {sobrehumanos G}	O		
+{las D} {Furias R} {de P} {la D} {vida N} {se Q} {rompieron V} {las D} {manos N}	O		
+{y C} {fatigó V} {sus D} {dedos N} {supremos G} {Ananké R} {... O}	O		

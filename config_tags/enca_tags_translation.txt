@@ -1,0 +1,18 @@
+# translation equivalents for enjambment tags, tab-separated
+# only listing "normalized tags" (i.e. not the finest ones, but the mid ones)
+# (see enca_tags_normalization.txt here to see the difference between finest and mid)
+# inside these brackets ther's a tab :) [	] (my editor inserts spaces only :D)
+#es	en
+sirrem_adj_adv	pb_adj_adv
+sirrem_adj_noun	pb_adj_noun
+sirrem_adj_prep	pb_adj_prep
+sirrem_adv_prep	pb_adv_prep
+sirrem_noun_prep	pb_noun_prep
+sirrem_pal-rel	pb_relword
+sirrem_verb_adv	pb_verb_adv
+sirrem_verb_supl	pb_verb_cprep
+sirrem_perif_verb	pb_verb_chain
+oracional	cc_crossclause
+enlace_od_verb	ex_dobj_verb
+enlace_subj_verb	ex_subj_verb
+tmesis	tm_tmesis

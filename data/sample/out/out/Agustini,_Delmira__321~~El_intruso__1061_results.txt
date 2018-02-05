@@ -1,0 +1,14 @@
+{Amor R} {, O} {la D} {noche N} {estaba V} {trágica G} {y C} {sollozante G}	O		
+{cuando C} {tu D} {llave N} {de P} {oro N} {cantó V} {en P} {mi D} {cerradura N} {; O}	O		
+{luego A} {, O} {la D} {puerta N} {abierta G} {sobre P} {la D} {sombra N} {helante G} {, O}	O		
+{tu D} {sombra N} {fue V} {una D} {mancha N} {de P} {luz N} {y C} {de P} {blancura N} {. O}	O		
+{Todo D} {aquí A} {lo Q} {alumbraron V} {tus D} {ojos N} {de P} {diamante N} {; O}	O		
+{bebieron V} {en P} {mi D} {copa N} {tus D} {labios N} {de P} {frescura N} {, O}	O		
+{y C} {descansó V} {en P} {mi D} {almohada N} {tu D} {cabeza N} {fragante G} {; O}	O		
+{me Q} {encantó V} {tu D} {descaro N} {y C} {adoré V} {tu D} {locura N} {. O}	O		
+{Y C} {hoy A} {río N} {si C} {tu D} {ríes V} {, O} {y C} {canto N} {si C} {tú Q} {cantas V} {; O}	O		
+{y C} {si C} {tú Q} {duermes N} {, O} {duermo N} {como C} {un D} {perro N} {a P} {tus D} {plantas N} {. O}	O		
+{Hoy A} {llevo V} {hasta P} {en P} {mi D} {sombra N} {tu D} {olor N} {de P} {primavera N} {; O}	O		
+{y C} {tiemblo N} {si C} {tu D} {mano N} {toca V} {la D} {cerradura N} {, O}	O		
+{¡ O} {y C} {bendigo V} {la D} {noche N} {sollozante G} {y C} {oscura G}	B	oracional	cp01
+{que Q} {floreció V} {en P} {mi D} {vida N} {tu D} {boca N} {tempranera G} {! O}	I	oracional	cp01

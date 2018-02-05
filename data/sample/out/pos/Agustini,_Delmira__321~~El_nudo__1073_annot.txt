@@ -1,0 +1,14 @@
+{Su D t1} {idilio N t2} {fue V t3} {una D t4} {larga G t5} {sonrisa N t6} {a P t7} {cuatro D t8} {labios N t9} {. O t10}
+{En P t11} {el D t12} {regazo N t13} {cálido G t14} {de P t15} {rubia G t16} {primavera N t17} {. O t18}
+{Amáronse R t19} {talmente A t20} {que C t21} {entre P t22} {sus D t23} {dedos N t24} {sabios N t25}
+{palpitó V t26} {la D t27} {divina G t28} {forma N t29} {de P t30} {la D t31} {Quimera R t32} {. O t33}
+{En P t34} {los D t35} {palacios N t36} {fúlgidos G t37} {de P t38} {las D t39} {tardes N t40} {en P t41} {calma N t42}
+{hablábanse V t43} {un D t44} {lenguaje N t45} {sentido N t46} {como C t47} {un D t48} {lloro N t49} {, O t50}
+{y C t51} {se Q t52} {besaban V t53} {hondo G t54} {hasta P t55} {morderse V t56} {el D t57} {alma N t58} {! O t59}
+{Las D t60} {horas N t61} {deshojáronse G t62} {como C t63} {flores N t64} {de P t65} {oro N t66} {. O t67}
+{Y C t68} {el D t69} {Destino R t70} {interpuso V t71} {sus D t72} {dos D t73} {manos N t74} {heladas N t75} {... O t76}
+{¡ O t77} {Ah O t78} {! O t79} {los D t80} {cuerpos N t81} {cedieron V t82} {, O t83} {mas A t84} {las D t85} {almas N t86} {trenzadas G t87}
+{son V t88} {el D t89} {más A t90} {intrincado G t91} {nudo N t92} {que Q t93} {nunca A t94} {fue V t95} {. O t96}
+{En P t97} {lucha N t98} {con P t99} {sus D t100} {locos N t101} {enredos G t102} {sobrehumanos G t103}
+{las D t104} {Furias R t105} {de P t106} {la D t107} {vida N t108} {se Q t109} {rompieron V t110} {las D t111} {manos N t112}
+{y C t113} {fatigó V t114} {sus D t115} {dedos N t116} {supremos G t117} {Ananké R t118} {... O t119}

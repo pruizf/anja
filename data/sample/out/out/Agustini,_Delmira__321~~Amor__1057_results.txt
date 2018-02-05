@@ -1,0 +1,14 @@
+{Yo Q} {lo Q} {soñé V} {impetuoso G} {, O} {formidable G} {y C} {ardiente A} {; O}	O		
+{hablaba V} {el D} {impreciso G} {leguaje N} {del P} {torrente N} {; O}	O		
+{era V} {un D} {mar N} {desbordado G} {de P} {locura N} {y C} {de P} {fuego N} {, O}	O		
+{rodando V} {por P} {la D} {vida N} {como C} {un D} {eterno G} {riego N} {. O}	O		
+{Luego A} {soñélo V} {triste G} {, O} {como C} {un D} {gran G} {sol N} {poniente G}	B	oracional	cp01
+{que Q} {dobla V} {ante P} {la D} {noche N} {la D} {cabeza N} {de P} {fuego N} {; O}	I	oracional	cp01
+{después A} {rió V} {, O} {y C} {en P} {su D} {boca N} {tan A} {tierna G} {como C} {un D} {ruego N} {, O}	O		
+{sonaba V} {sus D} {cristales N} {el D} {alma N} {de P} {la D} {fuente N} {. O}	O		
+{Y C} {hoy A} {sueño N} {que Q} {es V} {vibrante G} {, O} {y C} {suave G} {, O} {y C} {riente A} {, O} {y C} {triste G} {, O}	O		
+{que Q} {todas D} {las D} {tinieblas N} {y C} {todo D} {el D} {iris N} {viste V} {; O}	O		
+{que C} {, O} {frágil G} {como C} {un D} {ídolo N} {y C} {eterno G} {como C} {un D} {Dios R} {, O}	O		
+{sobre P} {la D} {vida N} {toda D} {su D} {majestad N} {levante V} {: O}	O		
+{y C} {el D} {beso N} {cae V} {ardiente A} {a P} {perfumar V} {su D} {planta N}	O		
+{en P} {una D} {flor N} {de P} {fuego N} {deshojada G} {por P} {dos D} {... O}	O		

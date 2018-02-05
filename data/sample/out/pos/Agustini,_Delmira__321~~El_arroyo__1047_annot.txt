@@ -1,0 +1,14 @@
+{¿ O t1} {Te Q t2} {acuerdas N t3} {? O t4} {El D t5} {arroyo N t6} {fue V t7} {la D t8} {serpiente N t9} {buena G t10} {... O t11}
+{Fluía V t12} {triste G t13} {y C t14} {triste G t15} {como C t16} {un D t17} {llanto N t18} {de P t19} {ciego N t20} {, O t21}
+{cuando C t22} {en P t23} {las D t24} {piedras N t25} {grises G t26} {donde Q t27} {arraiga V t28} {la D t29} {pena N t30} {, O t31}
+{como C t32} {un D t33} {inmenso G t34} {lirio N t35} {se Q t36} {levantó V t37} {tu D t38} {ruego N t39} {. O t40}
+{Mi D t41} {corazón N t42} {, O t43} {la D t44} {piedra N t45} {más A t46} {gris G t47} {y C t48} {más A t49} {serena G t50} {, O t51}
+{despertó V t52} {en P t53} {la D t54} {caricia N t55} {de P t56} {la D t57} {corriente N t58} {y C t59} {luego A t60}
+{sintió V t61} {como C t62} {la D t63} {tarde N t64} {, O t65} {con P t66} {manos N t67} {de P t68} {agarena N t69} {, O t70}
+{prendía V t71} {sobre P t72} {él Q t73} {una D t74} {rosa N t75} {de P t76} {fuego N t77} {. O t78}
+{Y C t79} {mientras C t80} {la D t81} {serpiente N t82} {del P t83} {arroyo N t84} {blandía V t85}
+{el D t86} {veneno N t87} {divino G t88} {de P t89} {la D t90} {melancolía N t91} {, O t92}
+{tocada G t93} {de P t94} {crepúsculo N t95} {me Q t96} {abrumó V t97} {tu D t98} {cabeza N t99} {, O t100}
+{la D t101} {coroné N t102} {de P t103} {un D t104} {beso N t105} {fatal G t106} {, O t107} {en P t108} {la D t109} {corriente N t110}
+{vi V t111} {pasar V t112} {un D t113} {cadáver N t114} {de P t115} {fuego N t116} {... O t117} {Y C t118} {locamente A t119}
+{me Q t120} {derrumbó V t121} {en P t122} {tu D t123} {abrazo N t124} {profundo G t125} {la D t126} {tristeza N t127} {. O t128}

@@ -1,0 +1,1207 @@
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	1	{Mientras C} {quede V} {Cartago R} {las D} {banderas N}	B	enlace_subj_verb
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	2	{triunfar V} {intentan V} {del P} {valor N} {romano G} {, O}	I	enlace_subj_verb
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	3	{y C} {espera V} {victorioso G} {el D} {africano G}	B	enlace_od_verb
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	4	{pisar V} {del P} {vago N} {Tiber R} {las D} {riberas N} {; O}	I	enlace_od_verb
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	5	{tú Q} {, O} {grande G} {dictador N} {, O} {entre P} {las D} {fieras N}	B	sirrem_adj_noun
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	6	{trompas G} {, O} {con P} {lento G} {pie N} {y C} {segura G} {mano N} {, O}	I	sirrem_adj_noun
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	7	{sin P} {sangre N} {alguna D} {derribaste P} {el D} {vano G}	B	sirrem_adj_noun
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	8	{orgullo N} {de P} {las D} {armas N} {extranjeras G} {. O}	I	sirrem_adj_noun
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	9	{No A} {te Q} {venció V} {de P} {la D} {opinión N} {contraria G}	B	enlace_subj_verb
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	10	{el D} {opuesto G} {rumor N} {a P} {tu D} {alabanza N} {: O}	I	enlace_subj_verb
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	11	{que C} {fácilmente A} {lo Q} {desprecia V} {el D} {sabio N} {. O}	O
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	12	{¡ O} {Oh O} {prudente G} {esperar V} {, O} {oh V} {voluntaria G}	B	sirrem_adj_noun
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	13	{constancia N} {, O} {por P} {quien Q} {Roma R} {ver V} {alcanza V}	IB	sirrem_adj_noun;enlace_od_verb
+Arguijo,_Juan_de__313~~A_Fabio_contra_Aníbal_Africano__0647_annot	14	{a P} {Aníbal R} {roto G} {y C} {vencedor N} {a P} {Fabio R} {! O}	I	enlace_od_verb
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	1	{Alegres R} {horas N} {de P} {memorias N} {tristes G}	B	oracional_comp-noun
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	2	{que Q} {, O} {por P} {un D} {breve G} {punto N} {que Q} {durastes R} {, O}	I	oracional_comp-noun
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	3	{a P} {eterna G} {soledad N} {me Q} {condenastes N}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	4	{en P} {pago N} {de P} {un D} {contento G} {que Q} {me Q} {distes N} {. O}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	5	{Decid V} {: O} {¿ O} {por P} {qué Q} {de P} {mí Q} {, O} {sin P} {mí Q} {, O} {os Q} {partistes N}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	6	{sabiendo V} {vos N} {, O} {sin P} {vos N} {, O} {cuál Q} {me Q} {dejastes N} {? O}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	7	{Y C} {si C} {por P} {do G} {venistes G} {os Q} {tornastes N} {, O}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	8	{¿ O} {por P} {qué Q} {no A} {al P} {mismo D} {punto N} {en P} {que C} {vinistes N} {? O}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	9	{¡ O} {Cuánto R} {fue V} {esta D} {venida N} {deseada G}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	10	{y C} {cuán A} {arrebatada G} {esta D} {venida N} {! O}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	11	{Que C} {, O} {en P} {fin N} {, O} {la D} {mejor G} {hora N} {fue V} {menguada G} {. O}	O
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	12	{No A} {me Q} {costastes N} {menos A} {que C} {una D} {vida N}	B	enlace_subj_verb
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	13	{la D} {media N} {en P} {desear V} {vuestra D} {llegada N}	I	enlace_subj_verb
+Arteaga,_Inarda_de__405~~Soneto__0897_annot	14	{y C} {la D} {media N} {en P} {llorar V} {vuestra D} {partida N} {. O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	1	{Ausente G} {el D} {sol N} {, O} {el D} {prado N} {se Q} {oscurece V} {, O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	2	{reina V} {la D} {noche N} {, O} {madre N} {de P} {temores N} {, O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	3	{y C} {de P} {las D} {fuentes N} {, O} {árboles N} {y C} {flores N}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	4	{la D} {diversa G} {color N} {igual A} {parece V} {. O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	5	{Mas R} {, O} {cuando C} {con P} {sus D} {rayos N} {resplandece V} {, O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	6	{dando V} {lustre N} {al P} {matiz N} {de P} {los D} {colores N} {, O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	7	{por P} {más A} {que C} {apure V} {el D} {sol N} {sus D} {resplandores N} {, O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	8	{quien Q} {negro G} {anocheció V} {, O} {negro G} {amanece N} {. O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	9	{Bien A} {podría V} {admitir V} {la D} {color N} {verde G}	B	sirrem_noun_prep-con
+Barrios,_Miguel_de__468~~Soneto__0988_annot	10	{con P} {varios D} {accidentes N} {de P} {alegría N}	IB	sirrem_noun_prep-con;sirrem_noun_prep-a
+Barrios,_Miguel_de__468~~Soneto__0988_annot	11	{a P} {la D} {negra N} {color N} {que C} {mi D} {alma N} {viste V} {; O}	I	sirrem_noun_prep-a
+Barrios,_Miguel_de__468~~Soneto__0988_annot	12	{mas A} {quien Q} {de P} {la D} {esperanza N} {el D} {color N} {pierde V} {, O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	13	{aunque C} {pase V} {la D} {noche N} {y C} {vuelva V} {el D} {día N} {, O}	O
+Barrios,_Miguel_de__468~~Soneto__0988_annot	14	{triste G} {amanece N} {, O} {si C} {anochece V} {triste G} {. O}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	1	{Musas R} {italianas G} {y C} {latinas G} {, O}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	2	{gentes N} {en P} {estas D} {partes N} {tan A} {extraña G} {, O}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	3	{¿ O} {cómo Q} {habéis V} {venido V} {a P} {nuestra D} {España R}	B	enlace_od_verb
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	4	{tan A} {nuevas G} {y C} {hermosas G} {clavelinas N} {? O}	I	enlace_od_verb
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	5	{O C} {¿ O} {quién Q} {os Q} {a P} {traído V} {a P} {ser V} {vecinas G} {? O}	B	sirrem_adj_noun
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	6	{del P} {Tajo R} {, O} {de P} {sus D} {montes N} {y C} {campaña N} {? O}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	7	{O C} {¿ O} {quién Q} {es V} {el D} {que Q} {os Q} {guía N} {y C} {acompaña V}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	8	{de P} {tierras N} {tan A} {ajenas G} {peregrinas N} {? O}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	9	{-Don R} {Diego R} {de P} {Mendoza R} {y C} {Garcilaso R}	B	enlace_subj_verb
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	10	{nos Q} {trujeron V} {, O} {y C} {Boscán R} {y C} {Luis R} {de P} {Haro R}	I	enlace_subj_verb
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	11	{por P} {orden N} {y C} {favor N} {del P} {dios G} {Apolo R} {. O}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	12	{Los D} {dos D} {llevó V} {la D} {muerte N} {paso N} {a P} {paso N} {, O}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	13	{Solimán R} {el D} {uno Q} {y C} {por P} {amparo N}	O
+Castillejo,_Cristóbal_de__292~~Soneto__0611_annot	14	{solo G} {queda V} {don N} {Diego R} {, O} {y C} {basta V} {solo G} {. O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	1	{En P} {todo Q} {sois A} {hermosa G} {¡ O} {oh O} {Reina R} {mía Q} {! O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	2	{por P} {Vos R} {vive V} {mi D} {alma N} {en P} {gozo N} {y C} {fiesta N} {. O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	3	{Si C} {pregunto V} {a P} {los D} {cielos N} {" O} {¿ O} {Quién Q} {es V} {Ésta Q} {, O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	4	{la D} {Zarza R} {, O} {que Q} {en P} {el D} {fuego N} {no A} {se Q} {ardía V} {? O} {" O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	5	{Altísonos R} {responden V} {: O} {" O} {Es V} {María R} {, O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	6	{que Q} {estuvo V} {en P} {el D} {peligro N} {sólo A} {puesta N} {, O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	7	{y C} {venciendo V} {a P} {la D} {culpa N} {, O} {asaz N} {funesta G} {, O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	8	{de P} {la D} {salud N} {del P} {mundo N} {atrajo V} {el D} {día N} {. O} {" O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	9	{¡ O} {Oh O} {lumbre N} {de P} {la D} {noche N} {más A} {oscura G} {, O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	10	{oh R} {del P} {airado G} {mar N} {seguro G} {puerto N} {, O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	11	{oh C} {arca N} {de P} {la D} {amistad N} {, O} {que Q} {siempre A} {dura G} {! O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	12	{Basa R} {, O} {donde Q} {el D} {maná N} {estuvo V} {encubierto G} {, O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	13	{cedro V} {de P} {corrupción N} {y C} {de P} {hermosura N} {, O}	O
+Cervantes_de_Salazar,_Francisco_o_Juan__379~~Soneto__0849_annot	14	{cuyo Q} {fruto N} {dio V} {vida N} {al P} {hombre N} {muerto G} {. O}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	1	{Virgen R} {y C} {Madre R} {, O} {que Q} {de P} {sol N} {vestida G} {, O}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	2	{cual Q} {la D} {rosada N} {Aurora R} {te Q} {levantas N} {, O}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	3	{y C} {a P} {todas D} {las D} {criaturas N} {te Q} {adelantas N}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	4	{porque C} {sin P} {culpa N} {fuiste V} {concebida N} {. O}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	5	{Hoy A} {en P} {tu D} {muerte N} {gozo N} {sin P} {medida N}	B	enlace_od_verb
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	6	{recibe V} {tu D} {alma N} {, O} {y C} {tus D} {benditas G} {plantas N}	I	enlace_od_verb
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	7	{con P} {las D} {incorruptibles G} {carnes N} {santas G}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	8	{miden V} {el D} {Reino R} {de P} {la D} {eterna G} {vida N} {. O}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	9	{Allí A} {santa G} {, O} {y C} {gloriosa G} {en P} {cuerpo N} {y C} {alma N} {, O}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	10	{del P} {Padre R} {, O} {y C} {del P} {Espíritu R} {gozando V}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	11	{asistes N} {a P} {la D} {diestra N} {de P} {tu D} {Hijo N} {. O}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	12	{Allí A} {se Q} {están V} {los D} {santos N} {alabando G} {: O}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	13	{y C} {allí A} {con P} {infinito G} {regocijo N}	O
+Crespi_de_Valldaura,_Francisco__334~~Soneto__0781_annot	14	{sobre P} {lo D} {que Q} {no A} {es V} {Dios R} {tiene V} {la D} {palma N} {. O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	1	{Aquel D} {que C} {lleno G} {el D} {Orbe R} {con P} {su D} {aliento N} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	2	{yace V} {despojo N} {de P} {la D} {muerte N} {fiera G} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	3	{y C} {de P} {esta D} {helada N} {, O} {si C} {legal G} {hoguera N} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	4	{es V} {estrecha G} {inscripción N} {el D} {vago G} {viento N} {. O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	5	{No A} {te Q} {acerques N} {, O} {o C} {huésped R} {, O} {poco A} {atento G} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	6	{a P} {este D} {polvo N} {, O} {que Q} {el D} {tiempo N} {le Q} {venera V} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	7	{su D} {nombre N} {escucharás A} {adonde Q} {quiera V} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	8	{delito N} {es V} {fatigar V} {el D} {monumento N} {. O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	9	{Triunfos R} {incluye V} {aquí A} {, O} {sordo G} {el D} {destino N} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	10	{a P} {quien Q} {la D} {vista N} {humana G} {no A} {se Q} {atreve V} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	11	{y C} {la D} {fama N} {inmortal G} {los D} {eterniza G} {. O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	12	{Pero C} {ya A} {que C} {viniste V} {, O} {o C} {peregrino N} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	13	{descubre V} {sin P} {temor N} {el D} {mármol N} {breve G} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_Almirante_de_Castilla__0077_annot	14	{que Q} {aun A} {le Q} {dura V} {el D} {agrado N} {a P} {la D} {ceniza N} {. O}	O
+León,_Cristóbal_de__300~~Soneto__0625_annot	1	{Del P} {griego G} {vemos V} {hoy A} {la D} {lanza N} {fiera G} {, O}	O
+León,_Cristóbal_de__300~~Soneto__0625_annot	2	{del P} {troyano N} {la D} {fama N} {muy A} {abierta G}	B	sirrem_adj_prep-por
+León,_Cristóbal_de__300~~Soneto__0625_annot	3	{por P} {sonorosa G} {musa N} {que Q} {despierta V}	IB	sirrem_adj_prep-por;enlace_od_verb
+León,_Cristóbal_de__300~~Soneto__0625_annot	4	{aquello Q} {que Q} {pasó V} {y C} {entonces A} {era V} {. O}	I	enlace_od_verb
+León,_Cristóbal_de__300~~Soneto__0625_annot	5	{Destos R} {agora V} {nunca A} {se Q} {supiera V}	B	enlace_subj_verb
+León,_Cristóbal_de__300~~Soneto__0625_annot	6	{cosa N} {que Q} {conociéramos V} {por P} {cierta D} {, O}	I	enlace_subj_verb
+León,_Cristóbal_de__300~~Soneto__0625_annot	7	{si C} {la D} {pluma N} {de P} {Homero R} {fuera A} {muerta G} {, O}	O
+León,_Cristóbal_de__300~~Soneto__0625_annot	8	{y C} {la D} {del P} {mantuano N} {no A} {viviera V} {. O}	O
+León,_Cristóbal_de__300~~Soneto__0625_annot	9	{Obligados R} {al P} {uno Q} {los D} {romanos N} {, O}	O
+León,_Cristóbal_de__300~~Soneto__0625_annot	10	{obligados G} {al P} {otro D} {los D} {argivos N} {: O}	O
+León,_Cristóbal_de__300~~Soneto__0625_annot	11	{oblíguense V} {también A} {a P} {Castellanos R}	B	enlace_od_verb
+León,_Cristóbal_de__300~~Soneto__0625_annot	12	{los D} {varones N} {en P} {Indias R} {más A} {altivos N} {. O}	I	enlace_od_verb
+León,_Cristóbal_de__300~~Soneto__0625_annot	13	{Pues C} {con P} {sus D} {versos N} {dulces G} {y C} {galanos N}	O
+León,_Cristóbal_de__300~~Soneto__0625_annot	14	{honran V} {mucho A} {los D} {muertos N} {y C} {los D} {vivos N} {. O}	O
+León_Espinel__162~~Soneto__0319_annot	1	{Cuando C} {a P} {la D} {dulce G} {guerra N} {de P} {Cupido R}	B	enlace_subj_verb
+León_Espinel__162~~Soneto__0319_annot	2	{de P} {tus D} {besos N} {me Q} {llame V} {el D} {instrumento N} {, O}	I	enlace_subj_verb
+León_Espinel__162~~Soneto__0319_annot	3	{cuando C} {vea V} {ondeado G} {por P} {el D} {viento N}	B	enlace_od_verb
+León_Espinel__162~~Soneto__0319_annot	4	{el D} {fuego N} {de P} {tus D} {ojos N} {esparcido G} {, O}	I	enlace_od_verb
+León_Espinel__162~~Soneto__0319_annot	5	{sé V} {que C} {he V} {de P} {acometer V} {como C} {atrevido V} {, O}	O
+León_Espinel__162~~Soneto__0319_annot	6	{teniendo V} {por P} {muy A} {cierto D} {el D} {vencimiento N} {; O}	O
+León_Espinel__162~~Soneto__0319_annot	7	{mas A} {¡ O} {ay O} {! O} {que C} {al P} {fin N} {me Q} {faltará V} {el D} {aliento N} {, O}	O
+León_Espinel__162~~Soneto__0319_annot	8	{quedando V} {yo Q} {triunfante G} {y C} {yo Q} {vencido V} {. O}	O
+León_Espinel__162~~Soneto__0319_annot	9	{Divina R} {vencedora G} {de P} {mis D} {ojos N} {, O}	O
+León_Espinel__162~~Soneto__0319_annot	10	{hermosa G} {triunfadora N} {de P} {mi D} {gloria N} {, O}	O
+León_Espinel__162~~Soneto__0319_annot	11	{Señora R} {, O} {si C} {me Q} {vences N} {tú Q} {, O} {paciencia N} {, O}	O
+León_Espinel__162~~Soneto__0319_annot	12	{Como C} {vencido G} {, O} {te Q} {daré V} {despojos N} {, O}	O
+León_Espinel__162~~Soneto__0319_annot	13	{como C} {rendido G} {, O} {te Q} {daré V} {victoria N} {, O}	O
+León_Espinel__162~~Soneto__0319_annot	14	{y C} {como C} {esclavo N} {, O} {te Q} {daré V} {obediencia N} {. O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	1	{Déjame R} {penetrar V} {por P} {este D} {oído N} {, O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	2	{camino N} {de P} {mi D} {bien A} {el D} {más A} {derecho N} {, O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	3	{y C} {en P} {el D} {rincón N} {más A} {hondo G} {de P} {tu D} {pecho N}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	4	{deja V} {que C} {labre V} {mi D} {amoroso G} {nido N} {. O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	5	{Feliz R} {eternamente A} {y C} {escondido G}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	6	{viviré N} {de P} {ocuparle V} {satisfecho G} {... O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	7	{¡ O} {De P} {tantos D} {mundos N} {como C} {Dios R} {ha V} {hecho V} {, O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	8	{este D} {espacio N} {no A} {más A} {a P} {Dios R} {le Q} {pido V} {! O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	9	{Ya A} {no A} {codicio N} {fama N} {dilatada G} {, O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	10	{ni C} {el D} {aplauso N} {que Q} {sigue V} {a P} {la D} {victoria N} {, O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	11	{ni C} {la D} {gloria N} {de P} {tantos D} {codiciada N} {... O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	12	{Quiero V} {cifrar V} {mi D} {fama N} {en P} {tu D} {memoria N} {; O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	13	{quiero V} {encontrar V} {mi D} {aplauso N} {en P} {tu D} {mirada N} {, O}	O
+López_de_Ayala,_Pedro__008~~Déjame_penetrar_por_este_oído__0016_annot	14	{y C} {en P} {tus D} {brazos N} {de P} {amor N} {toda D} {mi D} {gloria N} {. O}	O
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	1	{Recibid R} {blandamente G} {, O} {oh G} {luz N} {de P} {España R} {, O}	O
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	2	{las D} {flores N} {de P} {las D} {musas N} {más A} {perfectas G}	B	oracional_comp-noun
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	3	{que Q} {han V} {resonado V} {en P} {liras O} {de P} {poetas N}	I	oracional_comp-noun
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	4	{en P} {cuanto A} {el D} {sol N} {alumbra V} {y C} {el D} {mar N} {baña P} {; O}	O
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	5	{que C} {a P} {vueltas N} {de P} {librarse V} {de P} {la D} {saña N}	B	sirrem_noun_prep-de
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	6	{del P} {tiempo N} {, O} {a P} {cuya Q} {injuria N} {están V} {sujetas G} {, O}	I	sirrem_noun_prep-de
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	7	{será V} {con P} {general G} {aplauso N} {acetas O}	O
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	8	{si C} {vuestro N} {alto G} {valor N} {las D} {acompaña V} {. O}	O
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	9	{Que C} {pues C} {la D} {clara G} {fama N} {, O} {con P} {las D} {blancas G}	B	sirrem_adj_noun
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	10	{plumas N} {de P} {aquestes N} {cisnes N} {excelentes G} {, O}	I	sirrem_adj_noun
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	11	{eterno G} {monumento N} {les Q} {levanta V} {, O}	O
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	12	{vos N} {, O} {rama N} {al P} {fin N} {de P} {majestades N} {francas G} {, O}	O
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	13	{debéis R} {, O} {en P} {honra N} {de P} {tan A} {dignas G} {frentes N} {, O}	O
+López_del_Valle,_Juan__085~~A_la_grandeza_del_Duque_de_Béjar__0148_annot	14	{hacer V} {sombra N} {, O} {si C} {sombra N} {hay V} {en P} {luz N} {tanta Q} {. O}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	1	{Madre R} {de P} {Dios R} {eterno G} {, O} {norte N} {y C} {guía N}	B	sirrem_noun_prep-de
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	2	{de P} {los D} {que Q} {en P} {este D} {siglo N} {tenebroso G}	IB	sirrem_noun_prep-de;enlace_subj_verb
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	3	{corren V} {por P} {mar N} {incierto G} {y C} {peligroso G}	I	enlace_subj_verb
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	4	{con P} {mal A} {segura G} {nave N} {y C} {compañía N} {. O}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	5	{¿ O} {Cuándo R} {será V} {el D} {feliz G} {y C} {alegre G} {día N}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	6	{en P} {que Q} {mi D} {corazón N} {triste G} {y C} {penoso G}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	7	{halle N} {a P} {su D} {largo G} {error N} {libre G} {reposo N}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	8	{y C} {cobre N} {nuevo G} {aliento N} {y C} {alegría N} {? O}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	9	{Hoy A} {, O} {libre G} {de P} {los D} {hierros N} {y C} {cadena N} {, O}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	10	{en P} {que C} {me Q} {tuvo V} {el D} {viejo G} {, O} {a P} {noble G} {vuelo N}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	11	{me Q} {remonto N} {del P} {mundo N} {y C} {sus D} {engaños N} {. O}	O
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	12	{¿ O} {Cuándo N} {de P} {tu D} {piedad N} {la D} {luz N} {serena V}	B	enlace_subj_verb
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	13	{hará V} {que C} {vuele V} {puro G} {al P} {alto G} {cielo N} {, O}	I	enlace_subj_verb
+Maluenda,_Antonio_de__121~~Soneto__0246_annot	14	{ahuyentada G} {la D} {niebla N} {de P} {mis D} {daños N} {? O}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	1	{Buscan V} {los D} {enfermos N} {santuario G}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	2	{con P} {grand N} {desseo G} {e C} {sedienta N} {cura N}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	3	{o C} {por P} {lenguas N} {vías N} {y C} {caminos N} {varios Q} {, O}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	4	{temiendo V} {el D} {manto N} {de P} {la D} {sepultura N} {. O}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	5	{¿ O} {Son V} {, O} {si C} {pensades N} {, O} {menores G} {contrarios N}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	6	{los D} {venéreos N} {fuegos N} {sin P} {mesura N} {, O}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	7	{nin P} {los D} {mis D} {males N} {menos A} {adversarios N}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	8	{que Q} {la D} {tisera N} {d' P} {Antropos R} {escura V} {? O}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	9	{Pues C} {, O} {¿ O} {quién Q} {podría V} {o C} {puede V} {quietar V}	B	enlace_od_verb
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	10	{mis D} {graves G} {cuytas N} {, O} {mis D} {penas N} {, O} {mis D} {males N} {, O}	I	enlace_od_verb
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	11	{sean V} {por P} {partes N} {o C} {siquiera A} {en P} {gros N} {? O}	O
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	12	{Nin R} {Esculapio R} {podría V} {curar V}	B	enlace_od_verb
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	13	{los D} {mis D} {langores N} {, O} {tantos N} {son V} {e C} {tales D} {, O}	I	enlace_od_verb
+Marqués_de_Santillana__178~~-_XXIX_-__0372_annot	14	{nin P} {otro D} {alguno Q} {, O} {sinon P} {" O} {Dios R} {e C} {vos N} {" O} {. O}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	1	{Tienen V} {los D} {garamantes N} {una D} {fuente N}	B	oracional_comp-noun
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	2	{que Q} {, O} {por P} {oculta G} {calidad N} {del P} {suelo N} {, O}	I	oracional_comp-noun
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	3	{el D} {agua N} {tiene V} {fría G} {como C} {el D} {hielo N} {, O}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	4	{cuando C} {la D} {hiere N} {el D} {sol N} {resplandeciente G} {; O}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	5	{mas A} {luego A} {que C} {en P} {la D} {mar N} {moja V} {la D} {frente N} {, O}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	6	{y C} {el D} {mundo N} {se Q} {oscurece V} {, O} {y C} {en P} {el D} {cielo N}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	7	{tiende V} {la D} {negra N} {noche N} {el D} {rico G} {velo N} {, O}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	8	{hierve N} {y C} {abrasa V} {como C} {fuego N} {ardiente G} {. O}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	9	{Así A} {yo Q} {triste G} {, O} {en P} {fuente N} {convertido G}	B	sirrem_noun_prep-de
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	10	{de P} {llanto N} {, O} {estoy V} {helado N} {en P} {la D} {presencia N}	IB	sirrem_noun_prep-de;sirrem_noun_prep-de
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	11	{de P} {los D} {ojos N} {, O} {que Q} {son V} {el D} {sol N} {que C} {temo V} {; O}	I	sirrem_noun_prep-de
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	12	{mas A} {luego A} {que C} {oscurece V} {mi D} {sentido N}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	13	{la D} {oscurísima G} {noche N} {de P} {su D} {ausencia N} {, O}	O
+Marqués_de_Tarifa,_El__019~~Soneto__0032_annot	14	{en P} {vivo V} {fuego N} {me Q} {consumo N} {y C} {quemo V} {. O}	O
+Mena,_Juan_de__357~~Soneto__0816_annot	1	{Lejos A} {de P} {vos N} {, O} {e C} {cerca A} {de P} {cuidado N} {, O}	O
+Mena,_Juan_de__357~~Soneto__0816_annot	2	{pobre G} {de P} {gozo N} {, O} {e C} {rico G} {de P} {tristeza N} {, O}	O
+Mena,_Juan_de__357~~Soneto__0816_annot	3	{fallido G} {de P} {reposo N} {, O} {e C} {abastado N}	B	sirrem_adj_prep-de
+Mena,_Juan_de__357~~Soneto__0816_annot	4	{de P} {mortal G} {pena N} {, O} {congoja N} {y C} {graveza N} {; O}	I	sirrem_adj_prep-de
+Mena,_Juan_de__357~~Soneto__0816_annot	5	{desnudo G} {de P} {esperanza N} {, O} {e C} {abrigado G}	B	sirrem_adj_prep-de
+Mena,_Juan_de__357~~Soneto__0816_annot	6	{de P} {inmensa G} {cuita N} {, O} {e C} {visto V} {d N} {' O} {aspereza N} {, O}	I	sirrem_adj_prep-de
+Mena,_Juan_de__357~~Soneto__0816_annot	7	{la D} {mi D} {vida N} {me Q} {huye V} {mal A} {mi D} {agrado N} {, O}	O
+Mena,_Juan_de__357~~Soneto__0816_annot	8	{la D} {muerte N} {me Q} {persigue V} {sin P} {pereza N} {. O}	O
+Mena,_Juan_de__357~~Soneto__0816_annot	9	{Ni C} {son V} {bastantes D} {a P} {satisfacer V}	B	enlace_od_verb
+Mena,_Juan_de__357~~Soneto__0816_annot	10	{la D} {sed N} {ardiente A} {de P} {mi D} {gran G} {deseo N}	I	enlace_od_verb
+Mena,_Juan_de__357~~Soneto__0816_annot	11	{Tajo R} {al P} {presente N} {, O} {ni C} {a P} {me Q} {a P} {socorrer V}	IB	enlace_od_verb;enlace_od_verb
+Mena,_Juan_de__357~~Soneto__0816_annot	12	{la D} {enferma N} {Guadiana R} {, O} {ni C} {la D} {creo V} {. O}	I	enlace_od_verb
+Mena,_Juan_de__357~~Soneto__0816_annot	13	{Sólo A} {Guadalquivir R} {tiene V} {poder N}	B	sirrem_noun_prep-de
+Mena,_Juan_de__357~~Soneto__0816_annot	14	{de P} {me Q} {sanar V} {, O} {e C} {sólo A} {aquel D} {deseo N}	I	sirrem_noun_prep-de
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	1	{Qué D} {capitán N} {es V} {este D} {glorioso G}	B	oracional_comp-noun
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	2	{que Q} {provoca V} {a P} {batalla N} {, O} {y C} {que Q} {desciende V}	I	oracional_comp-noun
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	3	{contra P} {la D} {flor N} {de P} {Francia R} {, O} {y C} {que Q} {pretende V}	B	sirrem_perif_verb
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	4	{cubrir V} {el D} {mar N} {de P} {naves N} {espantoso G} {? O}	I	sirrem_perif_verb
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	5	{Entra A} {por P} {todas D} {partes N} {animoso G} {, O}	O
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	6	{rompe V} {, O} {destroza V} {, O} {mata V} {, O} {rinde V} {y C} {prende V} {, O}	O
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	7	{manda V} {, O} {socorro N} {, O} {anima V} {, O} {ordena V} {, O} {atiende V}	B	enlace_od_verb
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	8	{a P} {un D} {punto N} {con P} {ardor N} {maravilloso G} {. O}	I	enlace_od_verb
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	9	{Con P} {número N} {de P} {naves N} {tan A} {estrecho G}	O
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	10	{y C} {parte N} {del P} {ejército N} {esparcido G} {, O}	O
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	11	{designios N} {de P} {tres D} {reinos N} {ha V} {deshecho V} {; O}	O
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	12	{no A} {hay V} {para P} {que C} {decir V} {quién Q} {haya V} {sido V} {: O}	O
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	13	{que C} {las D} {grandes G} {empresas N} {de P} {derecho N}	B	enlace_subj_verb
+Mosquera_de_Figueroa,_Cristóbal__177~~Soneto__0343_annot	14	{son V} {de P} {Bazán R} {, O} {Marqués R} {esclarecido G} {. O}	I	enlace_subj_verb
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	1	{Ante P} {tu D} {canto N} {, O} {en P} {plectro N} {dilatado G} {, O}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	2	{la D} {eterna G} {Fama R} {, O} {o C} {del P} {Tormes R} {undoso G}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	3	{Canoro V} {Cline R} {, O} {fin N} {que Q} {el D} {tiempo N} {, O} {odioso N}	B	enlace_od_verb;sirrem_adj_noun
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	4	{Leteo R} {, O} {ofulque N} {a P} {tanta D} {gloria N} {el D} {grado N} {. O}	I	enlace_od_verb;sirrem_adj_noun
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	5	{No A} {de P} {la D} {envidia N} {, O} {el D} {Midas R} {obstinado G}	B	enlace_subj_verb
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	6	{niegue N} {a P} {tu D} {labio N} {acento. V} {el D} {Lauro R} {honroso G}	I	enlace_subj_verb
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	7	{pues C} {gustar V} {mejor A} {pudo V} {decoroso A} {, O}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	8	{el D} {Numen R} {dulce G} {, O} {el D} {Helicón R} {sagrado G} {. O}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	9	{Y C} {la D} {Penea R} {Ninfa R} {, O} {que Q} {de P} {Apolo R} {, O}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	10	{el D} {docto N} {empleo N} {le Q} {negó V} {a P} {sus D} {brazos N} {, O}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	11	{( O} {trocó V} {a P} {las D} {ansias N} {de P} {un D} {amor N} {prudente G} {) O} {. O}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	12	{Hoy A} {nuevo G} {Apolo N} {, O} {a P} {ti Q} {te Q} {ofrezco V} {solo G} {, O}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	13	{con P} {amoroso G} {afecto N} {, O} {ardientes A} {lazos N} {, O}	O
+Ribera,_Juan_de__017~~A_Francisco_de_Roales__0029_annot	14	{que Q} {ciñan V} {de P} {tu D} {ser N} {, O} {la D} {adulta G} {frente A} {. O}	O
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	1	{Si C} {el D} {que Q} {tiene V} {la D} {cruz N} {en P} {el D} {zapato N} {, O}	O
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	2	{y C} {sucede V} {en P} {el D} {título N} {y C} {posada G}	B	sirrem_noun_prep-de
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	3	{del P} {clérigo N} {valiente G} {, O} {cuya Q} {espada N}	IB	sirrem_noun_prep-de;enlace_subj_verb
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	4	{vengó V} {del P} {otro D} {Malco R} {el D} {desacato N} {, O}	I	enlace_subj_verb
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	5	{goza V} {del P} {soberbísimo G} {aparato N} {, O}	O
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	6	{que Q} {requiere V} {la D} {carga N} {encomendada G}	O
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	7	{por P} {muchos D} {años N} {más A} {que C} {en P} {la D} {pasada G}	B	sirrem_adj_noun
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	8	{edad N} {apacentó V} {Silvestre R} {el D} {hato N} {; O}	I	sirrem_adj_noun
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	9	{será V} {la D} {doncelleja N} {que Q} {curiosa G}	B	enlace_subj_verb
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	10	{mira V} {con P} {cuantas D} {entra V} {la D} {romana G} {, O}	I	enlace_subj_verb
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	11	{recostada G} {y C} {temida G} {eternamente A} {; O}	O
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	12	{y C} {los D} {que Q} {la D} {campaña N} {deleitosa G}	B	enlace_od_verb
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	13	{matizaban A} {de P} {roja G} {sangre N} {humana G} {, O}	I	enlace_od_verb
+Salinas,_Juan_de__181~~Sonetos_creados_entre_1586-1587__0388__Al_pontificado_de_Sixto_V,_que_pacificó_toda_la_ti__14_annot	14	{verán V} {al P} {Tiber R} {del P} {famoso G} {puente N} {. O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	1	{Venció V} {el D} {joven N} {Peleo R} {a P} {los D} {persianos N} {, O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	2	{mas A} {no A} {pasó V} {de P} {allí A} {su D} {monarquía N} {, O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	3	{y C} {aunque C} {hijo N} {del P} {Jove R} {se Q} {mentía V} {, O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	4	{apenas A} {llegó V} {a P} {ver V} {a P} {los D} {brazmanos N} {. O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	5	{La D} {cabeza N} {del P} {mundo N} {a P} {los D} {britanos N} {, O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	6	{rindió V} {, O} {con P} {su D} {valor N} {y C} {su D} {porfía N} {; O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	7	{y C} {aunque C} {el D} {valor N} {de P} {un D} {César R} {asistía V} {, O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	8	{no A} {hicieron V} {más A} {progresos N} {los D} {romanos N} {. O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	9	{Tú Q} {, O} {Felipe R} {Segundo R} {, O} {sin P} {segundo G}	B	sirrem_adj_noun
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	10	{sol N} {de P} {España R} {, O} {corriste V} {tu D} {carrera N}	I	sirrem_adj_noun
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	11	{desde P} {el D} {de P} {un D} {polo N} {hasta P} {el D} {del P} {nuevo G} {mundo N} {. O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	12	{¡ O} {Oh O} {, O} {ilustre G} {Casa R} {de P} {Austria R} {! O} {a P} {quien Q} {venera V}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	13	{ya A} {en P} {su D} {cenit N} {esté V} {, O} {ya A} {en P} {el D} {profundo G} {, O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	14	{Febo R} {luciente A} {al P} {torno N} {de P} {su D} {esfera N} {; O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	15	{porque C} {no A} {se Q} {atreviera V}	B	enlace_subj_verb
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	16	{la D} {noche N} {oscura G} {a P} {tu D} {luciente N} {Imperio R} {. O}	I	enlace_subj_verb
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	17	{Busque R} {ya A} {el D} {hemisferio N} {, O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	18	{ensanche P} {el D} {mar N} {y C} {tierra N} {, O} {en P} {todas D} {partes N} {, O}	O
+Salinas_y_Lizana,_Manuel__113~~Soneto__0223_annot	19	{donde Q} {puedas V} {fijar V} {tus D} {estandartes N} {. O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	1	{¿ O} {Así A} {, O} {Señor O} {, O} {sentís N} {, O} {ver V} {oprimido G} {, O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	2	{de P} {Javier R} {el D} {valor N} {, O} {ceda V} {al P} {tormento N} {, O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	3	{que Q} {en P} {efigie N} {insensible G} {, O} {sentimiento N}	B	enlace_od_verb
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	4	{mostráis G} {de P} {sacra N} {púrpura G} {teñido G} {? O}	I	enlace_od_verb
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	5	{Tan A} {propio G} {vuestro N} {su D} {dolor N} {ha V} {sido V} {, O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	6	{que Q} {os Q} {precisa V} {el D} {dolor N} {, O} {a P} {que C} {sangriento G} {, O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	7	{segunda G} {vez N} {os Q} {vea V} {el D} {instrumento N} {, O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	8	{en P} {que C} {por P} {vos N} {fue V} {el D} {hombre N} {redimido G} {. O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	9	{¿ O} {Es V} {Javier R} {quién Q} {padece V} {? O} {Que C} {lo Q} {dudo G} {, O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	10	{cuando C} {veo V} {el D} {efecto N} {riguroso G} {, O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	11	{en P} {vos N} {el D} {golpe N} {, O} {que Q} {Javier R} {recibe V} {. O}	O
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	12	{Mas R} {si C} {en P} {Javier R} {vivís N} {, O} {ya A} {veo V} {que C} {pudo V}	B	sirrem_perif_verb
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	13	{ser V} {vuestro V} {su D} {dolor N} {, O} {pues C} {amoroso G} {, O}	I	sirrem_perif_verb
+Santos_del_Castillo,_Francisco__438~~Soneto__0945_annot	14	{padece V} {el D} {corazón N} {en P} {donde Q} {vive V} {. O}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	1	{Si C} {celeste G} {, O} {si C} {cándida N} {, O} {si C} {pura G}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	2	{es V} {etérea G} {azucena N} {al P} {Sol R} {luciente A} {, O}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	3	{cuando C} {indultando V} {a P} {Delos R} {por P} {su D} {Oriente R}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	4	{privilegia G} {de P} {intacta G} {su D} {hermosura N} {, O}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	5	{¿ O} {cómo Q} {pudo V} {el D} {borrón N} {de P} {sombra N} {impura G}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	6	{profanar V} {su D} {excepción N} {? O} {¿ O} {Cómo Q} {indecente N}	B	sirrem_adj_noun
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	7	{villana G} {espina N} {horrorizar G} {ardiente A}	I	sirrem_adj_noun
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	8	{la D} {luz N} {nevada G} {que Q} {aun A} {en P} {Delos R} {dura G} {? O}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	9	{Si C} {en P} {la D} {sombra N} {no A} {hay V} {sombra N} {, O} {si C} {en P} {la D} {idea N}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	10	{la D} {mancha N} {falta V} {, O} {no A} {queriendo V} {el D} {Día R}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	11	{que Q} {menos A} {que C} {de P} {luz N} {su D} {cuna N} {sea V} {, O}	O
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	12	{¿ O} {cómo Q} {el D} {Original R} {? O} {¿ O} {Cómo Q} {podía V}	B	sirrem_perif_verb
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	13	{hallarse V} {impuro N} {con P} {la D} {culpa N} {fea G} {, O}	I	sirrem_perif_verb
+Sigüenza_y_Góngora,_Carlos__018~~Soneto_del_Triunfo_parténico__0031_annot	14	{siendo V} {de P} {luz N} {la D} {sombra N} {de P} {María R} {? O}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	1	{Cabellos R} {de P} {oro N} {que Q} {en P} {divina G} {altura N}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	2	{sobre P} {la D} {nieve N} {los D} {esparce V} {el D} {viento N} {; O}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	3	{ojos N} {en P} {quien Q} {tal D} {fuerza N} {y C} {poder V} {siento V}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	4	{que C} {bastan V} {a P} {aclarar V} {la D} {noche N} {oscura G} {. O}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	5	{Risa R} {que Q} {quita V} {toda D} {pena N} {dura G} {; O}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	6	{boca N} {do G} {sale V} {un D} {tan A} {supremo G} {acento N}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	7	{que Q} {basta V} {ha V} {henchir V} {mi D} {alma N} {de P} {contento G} {, O}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	8	{do G} {está V} {con P} {el D} {coral G} {la D} {perla N} {pura G} {. O}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	9	{La D} {mano N} {, O} {el D} {cuello N} {, O} {el D} {pecho N} {de P} {alabastro N} {; O}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	10	{la D} {tierna N} {voz N} {, O} {la D} {sangre N} {generosa G}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	11	{la D} {hermosura N} {nunca A} {imaginada G} {. O}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	12	{En P} {ti Q} {, O} {doña N} {Isabel R} {, O} {de P} {Castro R}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	13	{se Q} {halla V} {de P} {tal D} {suerte N} {fabricada G}	O
+Vadillo,_Juan__213~~A_doña_Isabel_de_Castro_y_Andrade,_condesa_de_Alta__0453_annot	14	{que C} {toda D} {eres V} {suprema G} {y C} {más A} {hermosa G} {. O}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	1	{Con P} {dulce G} {voz N} {y C} {pluma N} {diligente G} {, O}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	2	{y C} {no A} {vestida G} {de P} {confusos N} {caos N} {, O}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	3	{cantáis N} {Tomé R} {las D} {bodas N} {, O} {los D} {saraos N}	B	sirrem_noun_prep-de
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	4	{de P} {Zapaquilda R} {y C} {Mizifuf R} {valiente G} {. O}	I	sirrem_noun_prep-de
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	5	{Si C} {a P} {Homero R} {coronó V} {la D} {ilustre G} {frente A}	B	enlace_subj_verb
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	6	{cantar V} {las D} {Armas R} {de P} {las D} {Griegas R} {Naos R} {, O}	I	enlace_subj_verb
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	7	{a P} {vos N} {de P} {los D} {insignes N} {Marramiaos R}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	8	{guerras N} {de P} {amor N} {, O} {por P} {súbito N} {accidente N} {. O}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	9	{Bien A} {merecéis A} {un D} {gato N} {de P} {doblones N} {, O}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	10	{aunque C} {ni C} {Lope R} {celebréis G} {, O} {o C} {el D} {Taso R} {, O}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	11	{Ricardos R} {, O} {o C} {Gofredos R} {de P} {Bullones R} {. O}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	12	{Pues C} {que C} {por P} {vos N} {segundo G} {, O} {Gatilaso R} {, O}	O
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	13	{quedarán V} {para P} {siempre A} {de P} {ratones N}	B	sirrem_adj_noun
+Verecundia,_Teresa__190~~Al_licenciado_Tomé_de_Burguillos__0408_annot	14	{libres G} {las D} {Bibliotecas R} {del P} {Parnaso R} {. O}	I	sirrem_adj_noun
+Agustini,_Delmira__321~~El_arroyo__1047_annot	1	{¿ O} {Te Q} {acuerdas N} {? O} {El D} {arroyo N} {fue V} {la D} {serpiente N} {buena G} {... O}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	2	{Fluía R} {triste G} {y C} {triste G} {como C} {un D} {llanto N} {de P} {ciego N} {, O}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	3	{cuando C} {en P} {las D} {piedras N} {grises G} {donde Q} {arraiga V} {la D} {pena N} {, O}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	4	{como C} {un D} {inmenso G} {lirio N} {se Q} {levantó V} {tu D} {ruego N} {. O}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	5	{Mi D} {corazón N} {, O} {la D} {piedra N} {más A} {gris G} {y C} {más A} {serena N} {, O}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	6	{despertó V} {en P} {la D} {caricia N} {de P} {la D} {corriente N} {y C} {luego A}	B	sirrem_verb_adv
+Agustini,_Delmira__321~~El_arroyo__1047_annot	7	{sintió V} {como C} {la D} {tarde N} {, O} {con P} {manos N} {de P} {agarena N} {, O}	I	sirrem_verb_adv
+Agustini,_Delmira__321~~El_arroyo__1047_annot	8	{prendía V} {sobre P} {él Q} {una D} {rosa N} {de P} {fuego N} {. O}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	9	{Y C} {mientras C} {la D} {serpiente N} {del P} {arroyo N} {blandía V}	B	enlace_od_verb
+Agustini,_Delmira__321~~El_arroyo__1047_annot	10	{el D} {veneno N} {divino G} {de P} {la D} {melancolía N} {, O}	I	enlace_od_verb
+Agustini,_Delmira__321~~El_arroyo__1047_annot	11	{tocada G} {de P} {crepúsculo N} {me Q} {abrumó V} {tu D} {cabeza N} {, O}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	12	{la D} {coroné N} {de P} {un D} {beso N} {fatal G} {, O} {en P} {la D} {corriente N}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	13	{vi V} {pasar V} {un D} {cadáver N} {de P} {fuego N} {... O} {Y C} {locamente G}	O
+Agustini,_Delmira__321~~El_arroyo__1047_annot	14	{me Q} {derrumbó V} {en P} {tu D} {abrazo N} {profundo G} {la D} {tristeza N} {. O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	1	{No A} {más A} {, O} {no A} {más A} {en P} {piélagos N} {de P} {vino N}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	2	{sepultaré N} {, O} {insensato N} {, O} {mis D} {dolores N} {, O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	3	{velando V} {con P} {quiméricos N} {vapores G}	O	
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	4	{de P} {la D} {razón N} {el D} {resplandor N} {divino G} {. O}	I	
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	5	{No A} {más A} {, O} {hurtando V} {el D} {rostro N} {a P} {mi D} {destino N} {, O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	6	{pediré N} {a P} {la D} {locura N} {sus D} {favores N} {, O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	7	{ni C} {, O} {ceñido N} {de P} {pámpanos N} {y C} {flores N} {, O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	8	{dormiré V} {de P} {la D} {muerte N} {en P} {el D} {camino N} {. O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	9	{Arrepentido G} {estoy V} {de P} {haber V} {hollado V} {, O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	10	{vate V} {indigno G} {, O} {con P} {planta N} {entorpecida G} {, O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	11	{el D} {laurel N} {inmortal G} {y C} {el D} {áurea G} {ropa N} {... O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	12	{¡ O} {Néctar O} {fatal G} {! O} {, O} {licor N} {envenenado G} {, O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	13	{acepta V} {, O} {al P} {recibir V} {mi D} {despedida N} {, O}	O
+Alarcón,_Pedro_Antonio_de__404~~Adiós_al_vino__1547_annot	14	{el D} {brindis N} {postrimer G} {... O} {¡ O} {Llenad V} {mi D} {copa N} {! O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	1	{No A} {quiero V} {un D} {ángel N} {, O} {no A} {: O} {que C} {en P} {ilusiones N}	B	enlace_subj_verb
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	2	{así A} {miraba V} {a P} {una D} {mujer N} {divina G} {, O}	I	enlace_subj_verb
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	3	{mas A} {busqué V} {el D} {alma N} {y C} {la D} {encontré V} {mezquina G} {, O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	4	{juguete N} {vil G} {de P} {necias N} {impresiones N} {. O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	5	{No A} {quiero V} {la D} {mujer N} {cuyas Q} {pasiones N} {, O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	6	{ardientes N} {como C} {el D} {sol N} {que C} {me Q} {ilumina V} {, O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	7	{en P} {el D} {lecho N} {de P} {infame G} {Mesalina R}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	8	{me Q} {haga V} {olvidar V} {mis D} {castas N} {afecciones N} {. O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	9	{Quiero V} {un D} {alma N} {sencilla G} {tierna G} {y C} {pura G} {, O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	10	{que Q} {la D} {virtud N} {anime V} {con P} {su D} {llama N} {, O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	11	{que Q} {en P} {su D} {fiel G} {corazón N} {guarde V} {el D} {tesoro N}	B	sirrem_noun_prep-de
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	12	{de P} {mi D} {honor N} {, O} {mi D} {consuelo N} {y C} {mi D} {ventura N} {. O}	I	sirrem_noun_prep-de
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	13	{Así A} {es V} {la D} {virgen N} {bella G} {que Q} {me Q} {ama V} {, O}	O
+Betancourt,_José_Ramón_de__210~~La_que_debo_amar__0695_annot	14	{así A} {la Q} {debo V} {amar V} {, O} {así A} {la D} {adoro G} {. O}	O
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	1	{¿ O} {Qué Q} {es V} {el D} {Olimpo R} {? O} {- O} {Para P} {el D} {niño N} {, O} {un D} {juego N}	B	sirrem_noun_prep-de
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	2	{de P} {pájaros N} {, O} {de P} {músicas N} {y C} {flores. N} {- O}	I	sirrem_noun_prep-de
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	3	{¿ O} {Qué Q} {es V} {para P} {el D} {joven N} {? O} {- O} {Lupanar R} {de P} {amores N} {, O}	O
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	4	{eterna G} {forma N} {del P} {Elíseo R} {griego. G} {- O}	O
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	5	{¿ O} {Qué Q} {es V} {para P} {el D} {hombre N} {? O} {- O} {Para P} {el D} {hombre N} {ciego G}	O
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	6	{es V} {un D} {templo N} {de P} {glorias N} {y C} {de P} {honores N} {; O}	O
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	7	{y C} {el D} {viejo G} {se Q} {lo Q} {finge N} {en P} {sus D} {dolores N}	O
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	8	{como C} {un D} {rincón N} {de P} {paz N} {y C} {de P} {sosiego N} {. O}	O
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	9	{Y C} {el D} {viejo G} {ya A} {senil G} {¿ O} {en P} {qué Q} {convierte V}	B	enlace_od_verb
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	10	{del P} {Olimpo R} {la Q} {espléndida G} {morada N} {? O} {- O}	I	enlace_od_verb
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	11	{En P} {un D} {no A} {ser V} {que C} {es V} {menos A} {que C} {la D} {muerte N} {. O}	O
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	12	{¡ O} {Así A} {la D} {infancia N} {y C} {la D} {vejez N} {helada G}	B	enlace_subj_verb
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	13	{van V} {cambiando V} {el D} {Olimpo R} {de P} {esta D} {suerte N}	I	enlace_subj_verb
+Campoamor,_Ramón_de__159~~Lo_que_es_el_Olimpo__0490_annot	14	{en P} {flores N} {, O} {en P} {amor N} {, O} {en P} {paz N} {, O} {en P} {nada Q} {! O}	O	
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	1	{Cuando C} {el D} {viento N} {los D} {árboles N} {desnuda A}	O	
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	2	{arrastrando V} {las D} {hojas N} {por P} {el D} {suelo N} {, O}	O	
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	3	{aquellas D} {que Q} {más A} {juntas G} {puso V} {el D} {cielo N}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	4	{más A} {las D} {separa V} {su D} {inclemencia N} {ruda G} {. O}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	5	{Calma N} {después A} {su D} {cólera N} {sañuda G} {; O}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	6	{y C} {él Q} {, O} {que Q} {cortó V} {tan A} {cariñoso G} {anhelo N} {, O}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	7	{al P} {ver V} {las D} {tristes G} {hojas N} {sin P} {consuelo N}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	8	{a P} {unirse V} {nuevamente A} {las D} {ayuda N} {. O}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	9	{Dios R} {, O} {pues C} {, O} {que Q} {vio V} {nuestra D} {desgracia N} {impía N} {; O}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	10	{Dios R} {, O} {que Q} {nos Q} {vio V} {luchar V} {contra P} {la D} {suerte N} {, O}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	11	{Dios R} {, O} {que Q} {nuestra D} {constancia N} {desafía V} {, O}	O
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	12	{con P} {su D} {muda G} {elocuencia N} {nos Q} {advierte V}	B	enlace_od_verb
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	13	{que C} {otra D} {vez N} {se Q} {han V} {de P} {unir V} {tu D} {alma N} {y C} {la D} {mía Q} {, O}	I	enlace_od_verb
+Yanguas_Alcayde,_Augusto__573~~Cerca_y_lejos__2086_annot	14	{aunque C} {sea V} {a P} {las D} {puertas N} {de P} {la D} {muerte N} {. O}	O
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	1	{Poeta R} {profesor N} {de P} {la D} {esperanza N}	O
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	2	{y C} {ruiseñor N} {de P} {la D} {constante G} {aurora N} {, O}	O
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	3	{que Q} {vas V} {dejando V} {tu D} {canción N} {sonora G}	O	
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	4	{lejos A} {del P} {bienestar N} {de P} {Sancho R} {Panza R} {; O}	O	
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	5	{ya A} {que C} {tu D} {corazón N} {, O} {hora N} {tras P} {hora N} {, O}	O
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	6	{esgrime V} {la D} {ilusión N} {como C} {una D} {lanza N}	B	sirrem_noun_prep-de
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	7	{de P} {Quijote R} {inmortal G} {, O} {que Q} {no A} {descansa V} {, O}	I	sirrem_noun_prep-de
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	8	{en P} {el D} {altar N} {de P} {Dios R} {, O} {bendice N} {y C} {ora N} {. O}	O
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	9	{Y C} {si C} {quieres V} {, O} {pastor N} {de P} {corazones N}	O	
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	10	{que Q} {haya V} {lumbre N} {de P} {amor N} {en P} {tus D} {canciones N} {, O}	O	
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	11	{quémate R} {con P} {el D} {fuego N} {de P} {tu D} {luz N} {, O}	O
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	12	{como C} {el D} {Maestro R} {de P} {Sapiencia R} {pura G}	B	oracional_comp-noun
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	13	{que Q} {para P} {iluminar V} {con P} {su D} {ternura N}	I	oracional_comp-noun
+Zamora_Elizondo,_Hernán__007~~Luz_de_sangre__0020_annot	14	{se Q} {prende V} {con P} {tres D} {clavos N} {de P} {una D} {cruz N} {. O}	O	
+Zorrilla,_José__149~~El_picador__0431_annot	1	{Con P} {el D} {hirviente N} {resoplido G} {moja V}	B	enlace_subj_verb
+Zorrilla,_José__149~~El_picador__0431_annot	2	{el D} {ronco N} {toro N} {la D} {tostada N} {arena N} {, O}	I	enlace_subj_verb
+Zorrilla,_José__149~~El_picador__0431_annot	3	{la D} {vista N} {en P} {el D} {jinete N} {alta G} {y C} {serena G}	O
+Zorrilla,_José__149~~El_picador__0431_annot	4	{ancho G} {espacio N} {buscando V} {al P} {asta N} {roja G} {. O}	O
+Zorrilla,_José__149~~El_picador__0431_annot	5	{Su D} {arranque N} {audaz G} {a P} {recibir V} {se Q} {arroja V}	B	enlace_subj_verb
+Zorrilla,_José__149~~El_picador__0431_annot	6	{pálida G} {de P} {valor N} {la D} {faz N} {morena G} {, O}	I	enlace_subj_verb
+Zorrilla,_José__149~~El_picador__0431_annot	7	{e C} {hincha N} {en P} {la D} {frente N} {la D} {robusta N} {vena N}	B	enlace_subj_verb
+Zorrilla,_José__149~~El_picador__0431_annot	8	{el D} {picador N} {, O} {a P} {quien Q} {el D} {tiempo N} {enoja V} {. O}	I	enlace_subj_verb
+Zorrilla,_José__149~~El_picador__0431_annot	9	{Duda V} {la D} {fiera N} {, O} {el D} {español N} {la Q} {llama V} {: O}	O
+Zorrilla,_José__149~~El_picador__0431_annot	10	{sacude V} {el D} {toro N} {la D} {enastada N} {frente A} {, O}	O
+Zorrilla,_José__149~~El_picador__0431_annot	11	{la D} {tierra N} {escarba G} {, O} {sopla V} {y C} {desparrama V} {; O}	O
+Zorrilla,_José__149~~El_picador__0431_annot	12	{le Q} {obliga V} {el D} {hombre N} {, O} {parte N} {de P} {repente N} {, O}	O
+Zorrilla,_José__149~~El_picador__0431_annot	13	{y C} {herido G} {en P} {la D} {cerviz N} {, O} {húyele R} {y C} {brama N} {, O}	O
+Zorrilla,_José__149~~El_picador__0431_annot	14	{y C} {en P} {grito N} {universal G} {rompe V} {la D} {gente N} {. O}	O
+Zorrilla,_José__149~~II__0433_annot	1	{De P} {la D} {luna N} {de P} {miel N} {el D} {alborozo N}	B	enlace_subj_verb
+Zorrilla,_José__149~~II__0433_annot	2	{durando V} {aún A} {y C} {de P} {la D} {boda N} {el D} {ruido N} {, O}	I	enlace_subj_verb
+Zorrilla,_José__149~~II__0433_annot	3	{la D} {muerte N} {, O} {de P} {su D} {ser N} {con P} {el D} {destrozo N} {, O}	O
+Zorrilla,_José__149~~II__0433_annot	4	{la D} {hundió V} {en P} {la D} {eternidad N} {, O} {no A} {en P} {el D} {olvido N} {. O}	O
+Zorrilla,_José__149~~II__0433_annot	5	{Lloradla R} {sin P} {contén N} {y C} {sin P} {rebozo N}	O	
+Zorrilla,_José__149~~II__0433_annot	6	{llorad V} {a P} {la D} {mujer N} {que Q} {habéis V} {perdido G} {; O}	O	
+Zorrilla,_José__149~~II__0433_annot	7	{que C} {no A} {amenguan V} {la D} {prez N} {de P} {Rey R} {tan A} {mozo V}	B	enlace_od_verb
+Zorrilla,_José__149~~II__0433_annot	8	{las D} {lágrimas N} {del P} {Rey R} {tan A} {buen G} {marido N} {. O}	I	enlace_od_verb
+Zorrilla,_José__149~~II__0433_annot	9	{Mientras C} {su D} {duelo N} {el D} {ánimo N} {os Q} {destroce V} {, O}	O
+Zorrilla,_José__149~~II__0433_annot	10	{llorad V} {con P} {vuestro N} {pueblo N} {que Q} {la D} {llora V} {, O}	O
+Zorrilla,_José__149~~II__0433_annot	11	{lloradla V} {, O} {Señor O} {Rey R} {Alfonso R} {Doce D} {; O}	O
+Zorrilla,_José__149~~II__0433_annot	12	{perlas N} {son V} {vuestras D} {lágrimas N} {de P} {ahora A} {, O}	O
+Zorrilla,_José__149~~II__0433_annot	13	{y C} {el D} {pueblo N} {que Q} {su D} {precio N} {reconoce V} {, O}	O
+Zorrilla,_José__149~~II__0433_annot	14	{para P} {vos N} {las D} {recoge V} {y C} {atesora V} {. O}	O
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	1	{Entré R} {a P} {comprar V} {turrón N} {, O} {cuando C} {un D} {zapato N}	B	enlace_subj_verb
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	2	{se Q} {me Q} {quedó V} {enganchado G} {en P} {la D} {cortina N} {; O}	I	enlace_subj_verb
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	3	{la D} {confitera N} {con P} {su D} {voz N} {divina G}	B	enlace_subj_verb
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	4	{me Q} {dijo V} {: O} {" O} {Amigo R} {, O} {le Q} {cogió V} {a P} {usté V} {el D} {gato N} {" O} {. O}	I	enlace_subj_verb
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	5	{" O} {No A} {importa V} {si C} {el D} {turrón N} {lo Q} {da V} {barato G} {" O} {. O}	O
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	6	{le Q} {dije V} {al P} {punto N} {, O} {mas A} {la D} {muy A} {ladina G}	B	enlace_subj_verb
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	7	{me Q} {replicó V} {, O} {taimada G} {, O} {que Q} {en P} {Pechina R}	IB	enlace_subj_verb
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	8	{tocaban V} {las D} {muchachas N} {el D} {silbato N} {. O}	O	
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	9	{" O} {Allá A} {voy V} {a P} {partir V} {, O} {trueco N} {el D} {tintero N} {" O} {, O}	O
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	10	{alegre G} {respondí N} {, O} {por P} {la D} {escopeta N} {, O}	O
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	11	{pues C} {pretendo V} {admirar V} {tanto A} {salero N} {. O}	O
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	12	{Al P} {punto N} {que Q} {llegué V} {vi V} {una D} {paleta N}	B	sirrem_noun_prep-de
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	13	{de P} {aspecto N} {horrible G} {, O} {cara N} {de P} {puchero N} {... O}	I	sirrem_noun_prep-de
+Álvarez_Robles,_Mariano__389~~Soneto__1483_annot	14	{y C} {me Q} {volví V} {tocando V} {la D} {retreta N} {. O}	O
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	1	{Cuanto A} {a P} {tu D} {ingenio N} {toda D} {España R} {deba V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	2	{contarán V} {tus D} {Medallas R} {conocidas G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	3	{si C} {antes A} {la D} {oscuridad N} {desconocidas G}	B	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	4	{juzgó V} {, O} {hasta P} {que C} {tu D} {pluma N} {las D} {resuelva V} {. O}	I	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	5	{Nuevos G} {aplausos N} {a P} {los D} {doctos N} {mueva V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	6	{la D} {edición N} {de P} {las D} {luces N} {escondidas G} {, O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	7	{a P} {tus D} {ansias N} {debiendo V} {esclarecidas N}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	8	{el D} {lucimiento N} {que Q} {su D} {autor N} {reprueba V} {. O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	9	{A P} {cuál Q} {debamos V} {más A} {no A} {fácilmente A}	B	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	10	{se Q} {podrá V} {discernir V} {: O} {aquél A} {oculta V}	IB	enlace_subj_verb;enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	11	{su D} {propio D} {nombre N} {artificiosamente G} {; O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	12	{Tú Q} {, O} {porque C} {del P} {retiro N} {le Q} {resulta V}	O
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	13	{mayor G} {gloria N} {, O} {divulgas R} {diligente G}	O
+Andrés,_Juan_Francisco__021~~A_don_Vicencio_Juan_de_Lastanosa__0039_annot	14	{las D} {sutilezas N} {de P} {su D} {lima N} {oculta G} {. O}	O
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	1	{Nadie Q} {te Q} {alabe V} {, O} {Lope R} {, O} {que Q} {tú Q} {solo A}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	2	{te Q} {sobras N} {a P} {ti Q} {mismo D} {de P} {alabanza N} {, O}	I	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	3	{cuya Q} {elegante G} {voz N} {sonora G} {alcanza V}	B	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	4	{a P} {las D} {instancias N} {de P} {uno Q} {y C} {otro D} {polo N} {. O}	I	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	5	{Sea V} {tu D} {nombre N} {eterno G} {Mauseolo R} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	6	{no A} {sujeto N} {del P} {tiempo N} {a P} {la D} {mudanza N} {; O}	O
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	7	{goza V} {la D} {fama N} {con P} {igual G} {bonanza N}	O	
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	8	{del P} {Volga R} {helado N} {al P} {cálido G} {Pactolo R} {. O}	O	
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	9	{No A} {añaden V} {luz N} {al P} {sol N} {artificiales G}	B	sirrem_adj_noun
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	10	{antorchas N} {, O} {que Q} {encender V} {puede V} {oficiosa V}	IB	sirrem_adj_noun;enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	11	{la D} {fiel G} {solicitud N} {de P} {los D} {mortales N} {. O}	I	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	12	{Cualquier D} {posteridad N} {te Q} {será V} {ociosa G} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	13	{que Q} {mal A} {alumbran V} {rayos N} {materiales G}	O
+Angulo_y_Pulgar,_Martín__155~~A_la_muerte_de_Lope_de_Vega__0300_annot	14	{a P} {quien Q} {con P} {propio D} {resplandor N} {reposa V} {. O}	O
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	1	{Haz R} {por P} {caber V} {un D} {rato N} {en P} {poca D} {lira N} {, O}	O
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	2	{pues C} {supiste V} {caber V} {en P} {tierra N} {poca D} {, O}	O
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	3	{o C} {Montalbán R} {, O} {por P} {quien Q} {la D} {Fama R} {toca V}	B	enlace_od_verb
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	4	{cuanto A} {metal N} {sonoro G} {el D} {Orbe R} {admira V} {. O}	I	enlace_od_verb
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	5	{Ya A} {estás V} {do G} {sólo A} {alcanza V} {el D} {que Q} {suspira V}	O	
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	6	{de P} {la D} {Envidia R} {envidiado G} {, O} {a P} {cuya Q} {boca N}	O	
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	7	{fue V} {tu D} {pluma N} {veloz G} {gigante N} {roca N} {, O}	O
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	8	{adonde Q} {nace V} {el D} {Sol R} {, O} {a P} {donde Q} {espira N} {. O}	O
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	9	{O C} {tú Q} {que Q} {estás V} {donde Q} {el D} {vivir V} {no A} {muere V}	O
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	10	{en P} {sacro G} {Solio N} {eterno G} {, O} {y C} {sin P} {mudanza N}	O
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	11	{recuerdo N} {general G} {de P} {nuestro D} {olvido N} {. O}	O
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	12	{Nadie Q} {podrá V} {decir V} {que C} {defendiere V}	B	enlace_od_verb
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	13	{tus D} {obras N} {, O} {que Q} {defiende V} {aun A} {lo D} {que Q} {alcanza V}	I	enlace_od_verb
+Baños,_Pedro_de__100~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0196_annot	14	{que C} {lo D} {imposible G} {nace V} {defendido N} {. O}	O
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	1	{Los D} {campos N} {de P} {Madrid R} {, O} {Isidro R} {santo G} {, O}	O
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	2	{son V} {heredad N} {de P} {Dios R} {, O} {su D} {tierra N} {cielo N} {, O}	O
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	3	{pues C} {cuando C} {contempláis V} {, O} {eran V} {el D} {suelo N}	B	enlace_subj_verb
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	4	{espíritus P} {divinos N} {entretanto A} {. O}	I	enlace_subj_verb
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	5	{El D} {labrador N} {del P} {cielo N} {con P} {su D} {manto N}	B	enlace_subj_verb
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	6	{os Q} {hace V} {sombra N} {por P} {mayor G} {consuelo N} {, O}	I	enlace_subj_verb
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	7	{no A} {os Q} {cause V} {la D} {labor N} {algún D} {desvelo N} {, O}	O
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	8	{pues C} {gloria N} {cogeréis V} {sembrando V} {llanto N} {. O}	I
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	9	{Surcad R} {de P} {Dios R} {con P} {la D} {oración N} {el D} {pecho N} {, O}	O
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	10	{y C} {los D} {bellos G} {cristales N} {de P} {los D} {ojos N}	B
+enlace_subj_verb
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	11	{rindan V} {aprisa A} {por P} {Madrid R} {tributo N} {. O}	I	enlace_subj_verb
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	12	{Contentaréis R} {a P} {Dios R} {, O} {y C} {satisfecho G}	O	
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	13	{triunfaréis N} {de P} {la D} {gloria N} {por P} {despojos N} {, O}	O	
+Campezo,_Doctor__319~~A_San_Isidro__0741_annot	14	{sembrando V} {aquí A} {sus D} {lágrimas N} {, O} {el D} {fruto N} {. O}	O
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	1	{Lector N} {amigo N} {, O} {claramente A} {veo V}	B	sirrem_perif_verb
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	2	{salir V} {a P} {luz N} {aqueste D} {monumento N}	IB	sirrem_perif_verb;sirrem_noun_prep-sin
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	3	{sin P} {aquellos D} {matices N} {y C} {ornamento N}	IB	sirrem_noun_prep-sin;oracional_comp-noun
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	4	{que Q} {por P} {ventura N} {tienes V} {en P} {deseo N} {. O}	I	oracional_comp-noun
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	5	{Con P} {sólo A} {la D} {verdad N} {lo Q} {hermoseo N} {, O}	O
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	6	{porque C} {no A} {pide V} {tanto A} {crecimiento N}	B	sirrem_noun_prep-de
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	7	{de P} {variedades N} {, O} {mas A} {detenimiento N}	IB	sirrem_noun_prep-de;sirrem_noun_prep-de
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	8	{del P} {que Q} {suele V} {llevar V} {veloz G} {correo N} {. O}	I	sirrem_noun_prep-de
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	9	{La D} {peregrinación N} {es V} {inexhausta G} {, O}	O
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	10	{la D} {vida N} {breve G} {, O} {vena N} {mal A} {propicia G}	B	sirrem_adj_prep-para
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	11	{para P} {me Q} {detener V} {en P} {las D} {jornadas N} {. O}	I	sirrem_adj_prep-para
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	12	{Y C} {ansí A} {vamos V} {de P} {paso N} {, O} {porque C} {basta V}	O
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	13	{en P} {aqueste C} {compendio N} {dar V} {noticia N}	B	sirrem_noun_prep-de
+Castellanos,_Juan_de__020~~Al_lector__0036_annot	14	{de P} {las D} {cosas N} {que Q} {estaban V} {olvidadas G} {. O}	I	sirrem_noun_prep-de
+Caus,_Francisco__132~~Soneto__0266_annot	1	{Impura V} {tempestad N} {, O} {dura G} {tormenta N} {, O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	2	{fantástico G} {vapor N} {del P} {sueño N} {mueve V} {, O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	3	{contra P} {el D} {candor N} {, O} {que Q} {inmunidades A} {bebe V} {, O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	4	{del P} {ampo N} {en P} {que C} {el D} {ángel N} {se Q} {alimenta V} {. O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	5	{Dormido R} {le Q} {asaltó V} {llama N} {violenta G} {, O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	6	{que Q} {acara V} {descubierta N} {no A} {se Q} {atreve V} {, O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	7	{pero C} {como C} {dio V} {en P} {manos N} {de P} {la D} {nieve N} {, O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	8	{se Q} {hiela V} {el D} {fuego N} {, O} {y C} {la D} {pureza N} {alienta V} {. O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	9	{Lo D} {que Q} {de P} {impuro N} {concibió V} {el D} {sentido N}	B	sirrem_verb_supl
+Caus,_Francisco__132~~Soneto__0266_annot	10	{por P} {matices N} {, O} {y C} {boca N} {se Q} {vio V} {luego A}	I	sirrem_verb_supl
+Caus,_Francisco__132~~Soneto__0266_annot	11	{en P} {espumas N} {de P} {sangre N} {divertido G} {. O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	12	{Con P} {ella Q} {quedó V} {frío G} {el D} {ardor N} {ciego G} {, O}	O
+Caus,_Francisco__132~~Soneto__0266_annot	13	{porque C} {en P} {batallas N} {torpes G} {aun A} {dormido G}	O
+Caus,_Francisco__132~~Soneto__0266_annot	14	{lo Q} {lleva V} {Javier R} {todo Q} {, O} {sangre N} {, O} {fuego N} {. O}	O
+#DONE TO HERE
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	1	{No A} {porque C} {nace V} {el D} {Sol R} {, O} {muera V} {la D} {Aurora R} {, O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	2	{ni C} {peligra V} {en P} {tus D} {rayos N} {tu D} {belleza N} {, O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	3	{antes A} {usando V} {Fabio R} {una D} {fineza N} {, O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	4	{( O} {si C} {es V} {que C} {puede V} {crecer V} {) O} {la D} {aumenta V} {y C} {dora N} {. O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	5	{Y C} {aunque C} {el D} {peligro N} {se Q} {halla V} {, O} {o C} {gran G} {Señora R} {, O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	6	{a P} {veces N} {mal A} {en P} {la D} {mayor G} {grandeza N} {, O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	7	{padece V} {en P} {ti Q} {excepción N} {esta D} {certeza N} {, O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	8	{pues C} {feliz G} {suerte N} {tu D} {salud N} {mejora V} {. O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	9	{De P} {Neptuno R} {el D} {Imperio R} {gobernado G}	B	enlace_od_verb
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	10	{aumentan V} {olas N} {d N} {elemento N} {fuerte G} {; O}	I	enlace_od_verb
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	11	{y C} {aunque C} {desdichas P} {tantas D} {ha V} {causado V} {, O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	12	{al P} {centro N} {siempre A} {mejoró V} {la D} {suerte N} {, O}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	13	{viva G} {, O} {quien Q} {dio V} {el D} {aumento N} {deseado G}	O
+Dávila_y_Vera,_Pedro__282~~Soneto__0581_annot	14	{a P} {pesares N} {del P} {tiempo N} {, O} {y C} {de P} {la D} {muerte N} {. O}	O
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	1	{Cuando C} {borda N} {de P} {perlas N} {el D} {aurora N}	B	enlace_od_verb
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	2	{tapices N} {que Q} {matizan V} {bellas G} {flores N} {, O}	I	enlace_od_verb
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	3	{en P} {lisonjas N} {retornan V} {los D} {favores N}	B	oracional_comp-noun
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	4	{con P} {que Q} {las D} {enriquece V} {y C} {enamora V} {. O}	I	oracional_comp-noun
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	5	{Luego A} {la Q} {sigue V} {el D} {sol N} {, O} {que Q} {a P} {rayos N} {dora P}	B	enlace_od_verb
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	6	{la D} {variedad N} {vistosa G} {de P} {colores N} {, O}	I	enlace_od_verb
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	7	{a P} {quien Q} {las D} {aves N} {repitiendo G} {amores N}	B	enlace_subj_verb
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	8	{hacen V} {salva N} {con P} {música N} {sonora G} {. O}	I	enlace_subj_verb
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	9	{Así A} {yo Q} {cuando Q} {vi V} {la D} {aurora N} {hermosa G}	B	sirrem_noun_prep-de
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	10	{del P} {sol N} {que C} {desterró V} {la D} {niebla N} {oscura G}	IB	sirrem_noun_prep-de;sirrem_noun_prep-de
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	11	{de P} {una D} {ausencia N} {, O} {si C} {ya A} {no A} {sol N} {ni C} {ave N}	IB	sirrem_noun_prep-de;sirrem_adj_noun
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	12	{racional G} {, O} {la D} {belleza N} {milagrosa G}	IB	sirrem_adj_noun;enlace_od_verb
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	13	{venero N} {con P} {verdad N} {sencilla G} {y C} {pura G} {, O}	I	enlace_od_verb
+Sor_María_de_Santa_Isabel__435~~Soneto__0941_annot	14	{y C} {el D} {premio N} {fue V} {un D} {desdén N} {severo G} {y C} {grave G} {. O}	O
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	1	{Vive V} {feliz G} {en P} {Patria R} {más A} {dichosa G} {, O}	O
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	2	{porción N} {preciosa G} {de P} {mi D} {triste G} {vida N} {, O}	O
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	3	{que Q} {no A} {se Q} {puede V} {no A} {llamar V} {perdida G}	O	
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	4	{vida N} {mortal G} {que C} {se Q} {trocó V} {a P} {gloriosa G} {. O}	O	
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	5	{Si C} {fue V} {tu D} {Muerte R} {para P} {mí Q} {llorosa G}	O	
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	6	{toda D} {esta D} {pena N} {mi D} {memoria N} {olvida V} {, O}	O	
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	7	{pues C} {tú Q} {vives V} {en P} {mí Q} {, O} {que C} {en P} {tu D} {partida N}	O	
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	8	{tu D} {vida N} {fue V} {con P} {mi D} {vivir V} {forzosa G} {. O}	O	
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	9	{Si C} {antes A} {con P} {dos D} {vidas N} {dulcemente A}	B	sirrem_verb_adv
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	10	{viviste V} {, O} {y C} {ya A} {con P} {tres D} {vivir V} {te Q} {miro V} {, O}	I	sirrem_verb_adv
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	11	{logrando V} {el D} {lauro N} {de P} {tu D} {docta N} {frente A} {. O}	O
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	12	{La D} {que Q} {adquirida G} {con P} {tu D} {pluma N} {admiro V} {, O}	O
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	13	{la D} {gloriosa G} {que Q} {gozas V} {eminente A} {, O}	O
+Vidarte,_Juan_de__167~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0330_annot	14	{y C} {esta D} {mortal G} {con P} {que C} {por P} {ti Q} {suspiro N} {. O}	O
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	1	{Ora R} {en P} {la D} {fiel G} {cosecha N} {, O} {Lisis R} {grata G} {, O}	O
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	2	{la D} {tierra N} {corresponda V} {a P} {el D} {aldeano G}	B	sirrem_adj_noun
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	3	{labrador N} {, O} {ora N} {en P} {leche N} {pierda V} {el D} {grano N}	IB	sirrem_adj_noun;enlace_od_verb
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	4	{la D} {piedra N} {, O} {que Q} {las D} {mieses N} {desbarata P} {; O}	I	enlace_od_verb
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	5	{o C} {el D} {mar N} {tranquilo G} {ya A} {, O} {la D} {índica N} {plata N}	O	
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	6	{en P} {salvamento N} {llegue V} {al P} {puerto N} {hispano G} {, O}	O	
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	7	{o C} {ya A} {parte N} {se Q} {trague V} {el D} {Océano R} {, O}	O
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	8	{y C} {parte N} {roba V} {el D} {albión N} {pirata N} {; O}	O
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	9	{no A} {lo Q} {siento V} {, O} {ni C} {anhelo N} {los D} {fatales G}	B	sirrem_adj_noun:enlace_od_verb
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	10	{destinos N} {estorbar G} {con P} {dar V} {al P} {viento N}	IB	sirrem_adj_noun:enlace_od_verb;enlace_od_verb
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	11	{y C} {a P} {Dios R} {votos N} {y C} {voces N} {desiguales G} {. O}	I	enlace_od_verb
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	12	{No A} {porque C} {yo Q} {del P} {mal N} {tenga V} {contento G} {, O}	O
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	13	{mas A} {porque C} {el D} {curso N} {de P} {seguir V} {tus D} {males N}	B	enlace_subj_verb
+Vélez_de_Guevara,_Diego__471~~Soneto__0991_annot	14	{no A} {me Q} {deja V} {lugar N} {al P} {sentimiento N} {. O}	I	enlace_subj_verbAndrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	1	{Peña R} {fuerte G} {es V} {Raimundo R} {en P} {su D} {apellido N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	2	{y C} {rey N} {del P} {mundo N} {el D} {nombre N} {le Q} {publica V} {; O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	3	{aquél A} {su D} {fortaleza N} {santa G} {explica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	4	{y C} {éste Q} {cuanto A} {hay V} {mortal G} {muestra N} {rendido G} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	5	{El D} {elemento N} {más A} {embravecido G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	6	{cuado C} {el D} {mato N} {en P} {las D} {ondas N} {su D} {fe N} {aplica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	7	{el D} {viento N} {mansamente G} {en P} {él Q} {se Q} {implica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	8	{hasta P} {haberle V} {en P} {la D} {playa N} {conducido V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	9	{Triunfó R} {del P} {mar N} {airado G} {y C} {de P} {los D} {vientos N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	10	{y C} {cuando C} {sus D} {preceptos N} {obedecen V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	11	{muestra V} {el D} {mundo N} {menor G} {sus D} {movimientos N} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	12	{En P} {unos Q} {y C} {otros D} {los D} {prodigios N} {crecen V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	13	{pues C} {penden V} {de P} {su D} {voz N} {dos D} {elementos N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	14	{y C} {lo Q} {hombres N} {escuchan V} {, O} {y C} {ensordecen V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	1	{El D} {Monte R} {excelso G} {que C} {la D} {blanca G} {Aurora R}	B	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	2	{con P} {trémulos N} {cambiantes G} {argentaba N} {, O}	I	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	3	{cuya Q} {sublime V} {cumbre N} {dibujaba V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	4	{los D} {dos D} {collados N} {donde Q} {Apolo A} {mora N} {; O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	5	{fúnebre G} {eclipse V} {su D} {esplendor N} {desdora A} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	6	{tanto A} {que C} {cuantas D} {plantas N} {albergaba V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	7	{oscura G} {densidad N} {las D} {emboscaba V} {, O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	8	{hurtando V} {a P} {Febo R} {la D} {porción N} {que Q} {ignora V} {; O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	9	{pero C} {en P} {vano G} {se Q} {oponen V} {sombras N} {frías G}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	10	{a P} {empañar V} {de P} {su D} {cima N} {los D} {verdores N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	11	{si C} {han V} {de P} {brillar V} {amenas N} {lozanías G} {; O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	12	{y C} {mal A} {pueden V} {ceder V} {a P} {los D} {horrores N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	13	{pues C} {a P} {pesar N} {del P} {tiempo N} {, O} {y C} {de P} {los D} {días N}	B	sirrem_noun_prep-de
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	14	{de P} {sus D} {cenizas N} {nacerán V} {las D} {flores N} {. O}	I	sirrem_noun_prep-de
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	1	{Del P} {fuego N} {abrasador G} {la Q} {llama V} {ardiente N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	2	{no A} {examina V} {en P} {Laurencio R} {lo Q} {inflamado G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	3	{que Q} {el D} {calor N} {de P} {las D} {ascuas N} {no A} {ha V} {quemado V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	4	{porque C} {en P} {su D} {pecho N} {, O} {incendio N} {mayor G} {siente V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	5	{La D} {actividad N} {de P} {Orencio R} {no A} {consiente V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	6	{que Q} {le Q} {refríe V} {del P} {cristal N} {lo Q} {helado N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	7	{porque C} {el D} {hielo N} {, O} {en P} {pavesas N} {transformado G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	8	{confiesa V} {el D} {vencimiento N} {claramente A} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	9	{Laurencio R} {se Q} {acredita N} {de P} {animoso N}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	10	{en P} {las D} {llamas N} {, O} {y C} {Orencio R} {en P} {los D} {cristales N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	11	{rayos N} {brilla V} {el D} {amor N} {afectuoso G} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	12	{Que C} {venzan V} {elementos N} {desiguales G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	13	{no A} {es V} {mucho A} {, O} {cuando C} {en P} {parto N} {prodigioso G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	14	{la D} {Paciencia R} {les Q} {dio V} {fuerzas N} {iguales G} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	1	{El D} {Ebro R} {en P} {su D} {corriente N} {cristalina G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	2	{célebre G} {Alcino R} {, O} {tus D} {discretas G} {sales N} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	3	{pues C} {, O} {con P} {tus D} {agudezas N} {, O} {sus D} {caudales N} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	4	{no A} {envidiarán V} {la D} {fuente N} {Cabalina R} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	5	{Tu D} {voz N} {resuene V} {dulce G} {, O} {peregrina G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	6	{en P} {los D} {climas N} {remotos G} {Boreales R} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	7	{porque C} {de P} {tu D} {elocuencia N} {los D} {raudales N}	B	sirrem_noun_prep-al
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	8	{al P} {mayor G} {Lauro R} {, O} {Febo R} {los D} {destina V} {. O}	I	sirrem_noun_prep-al
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	9	{El D} {Clarín R} {resonante G} {de P} {la D} {fama N}	B	sirrem_adj_noun
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	10	{aplauda G} {sus D} {cadencias N} {ingeniosas G} {, O}	I	sirrem_adj_noun
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	11	{cuando C} {el D} {sonoro G} {Pindo R} {las D} {aclama N} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	12	{Y C} {exentas N} {de P} {las D} {sombras N} {envidiosas G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	13	{de P} {Daphne R} {las D} {corone V} {inmortal G} {Rama R} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	14	{para P} {que C} {brillen V} {siempre A} {victoriosas G} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	1	{La D} {Madre R} {Augusta R} {, O} {el D} {Príncipe R} {nacido G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	2	{felicidad N} {fatal G} {de P} {que C} {adolece V} {; O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	3	{toda D} {la D} {eternidad N} {que Q} {en P} {él Q} {se Q} {acrece V} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	4	{ya A} {pensó V} {el D} {hado N} {que Q} {la Q} {había V} {vivido V} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	5	{Recobrose R} {con P} {gozo N} {más A} {crecido G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	6	{y C} {en P} {la D} {Real R} {vida N} {el D} {susto N} {convalece V} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	7	{desengañado N} {de P} {que C} {no A} {fenece V}	B	enlace_od_verb
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	8	{lo D} {eterno G} {, O} {aunque C} {en P} {un D} {punto N} {conseguido G} {. O}	I	enlace_od_verb
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	9	{O C} {cuánto Q} {la D} {Agustísima R} {Mariana R} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	10	{vivó V} {de P} {gloria N} {en P} {el D} {instante N} {sólo A} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	11	{que C} {dio V} {una D} {Majestad R} {a P} {España R} {tierna V} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	12	{Mas R} {si C} {armó V} {contra P} {sí A} {la D} {Parca R} {vana G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	13	{viva G} {, O} {viva G} {feliz G} {la D} {edad N} {de P} {Apolo R}	B	oracional_comp-noun
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	14	{que Q} {no A} {la Q} {ha V} {de P} {acabar V} {, O} {quien Q} {la Q} {hace V} {eterna G} {. O}	I	oracional_comp-noun
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	1	{DOCTO N} {Monte R} {de P} {Musas R} {, O} {cuyo Q} {seno N}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	2	{In R} {auras G} {miro V} {ausentes G} {, O} {Peregrino R} {! O}	I	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	3	{Verás V} {, O} {si C} {, O} {terminando V} {su D} {camino N} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	4	{Ahora A} {paras O} {en P} {su D} {valle N} {ameno G} {; O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	5	{No A} {admires N} {, O} {no A} {, O} {si C} {en P} {tierra N} {lo Q} {terreno N}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	6	{PÉREZ R} {es V} {, O} {que Q} {, O} {en P} {su D} {cumbre N} {, O} {lo D} {divino G}	IB	enlace_subj_verb;sirrem_adj_prep-de
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	7	{DE P} {una D} {bien A} {, O} {y C} {de P} {otra D} {fama N} {dino N}	I	sirrem_adj_prep-de
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	8	{Mas R} {que C} {de P} {flor N} {, O} {está V} {de P} {glorias N} {lleno G} {. O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	9	{O C} {tú Q} {! O} {feliz G} {le Q} {admira V} {, O} {en P} {monumento N}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	10	{Nunca A} {oprimido G} {, O} {aunque C} {de P} {pesadumbre N}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	11	{Tanta Q} {; O} {y C} {sus D} {coros N} {luego A} {, O} {que C} {cantando V}	B	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	12	{Alegres R} {, O} {tejían P} {siempre A} {, O} {en P} {suave G} {acento N} {, O}	I	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	13	{Las D} {Musas R} {, O} {que Q} {, O} {variando V} {ya A} {costumbre N} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	14	{VAN R} {al P} {MONte R} {, O} {TAL R} {vez N} {( O} {y C} {VAN R} {) O} {llorando V} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	1	{¿ O} {Vives R} {, O} {o C} {no A} {? O} {que C} {la D} {razón N} {no A} {acierta V}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	2	{( O} {Gran R} {Majestad R} {) O} {a P} {discurrirte N} {, O} {altiva N}	B	oracional_comp-noun
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	3	{que Q} {tienes V} {mucho A} {grande G} {, O} {para P} {vida N} {, O}	I	oracional_comp-noun
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	4	{y C} {tienes V} {mucho A} {hermoso G} {, O} {para P} {muerta G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	5	{¿ O} {Qué Q} {vives V} {, O} {dudo A} {? O} {no A} {; O} {tu D} {vida N} {es V} {cierta G} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	6	{no A} {ha V} {de P} {ser V} {siempre A} {la D} {grandeza N} {esquiva G} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	7	{si C} {el D} {llegar V} {a P} {lo D} {más A} {es V} {, O} {quien Q} {derriba V} {, O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	8	{tuyo Q} {es V} {lo D} {más A} {, O} {pues C} {como C} {será V} {incierta G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	9	{De P} {grande G} {peligrabas V} {; O} {no A} {es V} {lo D} {menos A} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	10	{de P} {mayor G} {mejoraste N} {; O} {mucho A} {ha V} {sido V} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	11	{pero C} {más A} {es V} {de P} {excelsa N} {, O} {estar V} {segura G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	12	{O C} {aclame V} {ardor N} {de P} {números N} {muy A} {llenos G}	B	enlace_subj_verb
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	13	{tu D} {mejoría N} {, O} {si C} {en P} {lo D} {más A} {temido G} {, O}	I	enlace_subj_verb
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	14	{tubo N} {, O} {que Q} {mejora V} {tanta D} {hermosura N} {. O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	1	{Valencia R} {insigne V} {, O} {patria N} {venturosa G} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	2	{de P} {valor N} {, O} {y C} {de P} {ciencia N} {coronada G}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	3	{si C} {de P} {Minerva R} {Cátedra R} {afamada G}	B	sirrem_adj_prep-de
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	4	{de P} {Palas R} {plaza N} {ilustre G} {, O} {y C} {belicosa N} {. O}	I	sirrem_adj_prep-de
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	5	{Festiva R} {forma V} {una D} {corona N} {hermosa G}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	6	{igual G} {a P} {la D} {de P} {Alcides R} {celebrada G} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	7	{y C} {a P} {tal D} {Historiador R} {; O} {apasionada A}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	8	{corona N} {liberal G} {, O} {premia N} {gustosa G} {. O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	9	{De P} {Orti R} {conserva V} {la D} {inmortal G} {memoria N} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	10	{pues C} {nota V} {puntual G} {, O} {sutil G} {explica V}	B	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	11	{la D} {honra N} {, O} {que Q} {en P} {Tomás R} {Fénix R} {te Q} {aclama V} {. O}	I	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	12	{Consagra V} {esta D} {obra N} {rica G} {a P} {eterna G} {gloria N} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	13	{pues C} {la D} {del P} {Turia R} {al P} {Nilo R} {la D} {publica V}	B	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	14	{la D} {sonorosa G} {trompa N} {de P} {la D} {Fama R} {. O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	1	{Segundo R} {Fénix R} {que Q} {dejó V} {engendrado G}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	2	{la D} {ceniza N} {de P} {Lope R} {esclarecida G} {; O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	3	{tú Q} {que C} {diste V} {al P} {Parnaso R} {nueva G} {vida N} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	4	{viendo V} {el D} {Sol R} {de P} {las D} {Musas R} {eclipsado G} {. O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	5	{Ya A} {en P} {tu D} {tránsito N} {duro G} {ha V} {peligrado V}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	6	{la D} {pompa N} {del P} {Teatro N} {envanecida G} {; O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	7	{tarde A} {se Q} {mirará V} {convalecida G} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	8	{de P} {este D} {desastre N} {fúnebre G} {del P} {Hado R} {. O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	9	{Madrugaron V} {la D} {Muerte R} {, O} {y C} {la D} {Fortuna R}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	10	{a P} {disfrutarte V} {, O} {ensangrentando V} {fiera A}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	11	{una D} {la D} {Rueda R} {, O} {y C} {otra D} {la D} {Guadaña R} {. O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	12	{Juntas G} {troncaron V} {la D} {mayor G} {columna N} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	13	{que Q} {sustentó V} {la D} {peregrina N} {Esfera R} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	14	{del P} {mejor G} {espectáculo N} {de P} {España R} {. O}	OAndrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	1	{Peña R} {fuerte G} {es V} {Raimundo R} {en P} {su D} {apellido N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	2	{y C} {rey N} {del P} {mundo N} {el D} {nombre N} {le Q} {publica V} {; O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	3	{aquél A} {su D} {fortaleza N} {santa G} {explica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	4	{y C} {éste Q} {cuanto A} {hay V} {mortal G} {muestra N} {rendido G} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	5	{El D} {elemento N} {más A} {embravecido G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	6	{cuado C} {el D} {mato N} {en P} {las D} {ondas N} {su D} {fe N} {aplica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	7	{el D} {viento N} {mansamente G} {en P} {él Q} {se Q} {implica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	8	{hasta P} {haberle V} {en P} {la D} {playa N} {conducido V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	9	{Triunfó R} {del P} {mar N} {airado G} {y C} {de P} {los D} {vientos N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	10	{y C} {cuando C} {sus D} {preceptos N} {obedecen V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	11	{muestra V} {el D} {mundo N} {menor G} {sus D} {movimientos N} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	12	{En P} {unos Q} {y C} {otros D} {los D} {prodigios N} {crecen V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	13	{pues C} {penden V} {de P} {su D} {voz N} {dos D} {elementos N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	14	{y C} {lo Q} {hombres N} {escuchan V} {, O} {y C} {ensordecen V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	1	{El D} {Monte R} {excelso G} {que C} {la D} {blanca G} {Aurora R}	B	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	2	{con P} {trémulos N} {cambiantes G} {argentaba N} {, O}	I	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	3	{cuya Q} {sublime V} {cumbre N} {dibujaba V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	4	{los D} {dos D} {collados N} {donde Q} {Apolo A} {mora N} {; O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	5	{fúnebre G} {eclipse V} {su D} {esplendor N} {desdora A} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	6	{tanto A} {que C} {cuantas D} {plantas N} {albergaba V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	7	{oscura G} {densidad N} {las D} {emboscaba V} {, O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	8	{hurtando V} {a P} {Febo R} {la D} {porción N} {que Q} {ignora V} {; O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	9	{pero C} {en P} {vano G} {se Q} {oponen V} {sombras N} {frías G}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	10	{a P} {empañar V} {de P} {su D} {cima N} {los D} {verdores N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	11	{si C} {han V} {de P} {brillar V} {amenas N} {lozanías G} {; O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	12	{y C} {mal A} {pueden V} {ceder V} {a P} {los D} {horrores N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	13	{pues C} {a P} {pesar N} {del P} {tiempo N} {, O} {y C} {de P} {los D} {días N}	B	sirrem_noun_prep-de
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	14	{de P} {sus D} {cenizas N} {nacerán V} {las D} {flores N} {. O}	I	sirrem_noun_prep-de
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	1	{Del P} {fuego N} {abrasador G} {la Q} {llama V} {ardiente N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	2	{no A} {examina V} {en P} {Laurencio R} {lo Q} {inflamado G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	3	{que Q} {el D} {calor N} {de P} {las D} {ascuas N} {no A} {ha V} {quemado V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	4	{porque C} {en P} {su D} {pecho N} {, O} {incendio N} {mayor G} {siente V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	5	{La D} {actividad N} {de P} {Orencio R} {no A} {consiente V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	6	{que Q} {le Q} {refríe V} {del P} {cristal N} {lo Q} {helado N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	7	{porque C} {el D} {hielo N} {, O} {en P} {pavesas N} {transformado G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	8	{confiesa V} {el D} {vencimiento N} {claramente A} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	9	{Laurencio R} {se Q} {acredita N} {de P} {animoso N}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	10	{en P} {las D} {llamas N} {, O} {y C} {Orencio R} {en P} {los D} {cristales N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	11	{rayos N} {brilla V} {el D} {amor N} {afectuoso G} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	12	{Que C} {venzan V} {elementos N} {desiguales G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	13	{no A} {es V} {mucho A} {, O} {cuando C} {en P} {parto N} {prodigioso G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	14	{la D} {Paciencia R} {les Q} {dio V} {fuerzas N} {iguales G} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	1	{El D} {Ebro R} {en P} {su D} {corriente N} {cristalina G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	2	{célebre G} {Alcino R} {, O} {tus D} {discretas G} {sales N} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	3	{pues C} {, O} {con P} {tus D} {agudezas N} {, O} {sus D} {caudales N} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	4	{no A} {envidiarán V} {la D} {fuente N} {Cabalina R} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	5	{Tu D} {voz N} {resuene V} {dulce G} {, O} {peregrina G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	6	{en P} {los D} {climas N} {remotos G} {Boreales R} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	7	{porque C} {de P} {tu D} {elocuencia N} {los D} {raudales N}	B	sirrem_noun_prep-al
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	8	{al P} {mayor G} {Lauro R} {, O} {Febo R} {los D} {destina V} {. O}	I	sirrem_noun_prep-al
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	9	{El D} {Clarín R} {resonante G} {de P} {la D} {fama N}	B	sirrem_adj_noun
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	10	{aplauda G} {sus D} {cadencias N} {ingeniosas G} {, O}	I	sirrem_adj_noun
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	11	{cuando C} {el D} {sonoro G} {Pindo R} {las D} {aclama N} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	12	{Y C} {exentas N} {de P} {las D} {sombras N} {envidiosas G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	13	{de P} {Daphne R} {las D} {corone V} {inmortal G} {Rama R} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	14	{para P} {que C} {brillen V} {siempre A} {victoriosas G} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	1	{La D} {Madre R} {Augusta R} {, O} {el D} {Príncipe R} {nacido G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	2	{felicidad N} {fatal G} {de P} {que C} {adolece V} {; O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	3	{toda D} {la D} {eternidad N} {que Q} {en P} {él Q} {se Q} {acrece V} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	4	{ya A} {pensó V} {el D} {hado N} {que Q} {la Q} {había V} {vivido V} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	5	{Recobrose R} {con P} {gozo N} {más A} {crecido G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	6	{y C} {en P} {la D} {Real R} {vida N} {el D} {susto N} {convalece V} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	7	{desengañado N} {de P} {que C} {no A} {fenece V}	B	enlace_od_verb
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	8	{lo D} {eterno G} {, O} {aunque C} {en P} {un D} {punto N} {conseguido G} {. O}	I	enlace_od_verb
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	9	{O C} {cuánto Q} {la D} {Agustísima R} {Mariana R} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	10	{vivó V} {de P} {gloria N} {en P} {el D} {instante N} {sólo A} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	11	{que C} {dio V} {una D} {Majestad R} {a P} {España R} {tierna V} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	12	{Mas R} {si C} {armó V} {contra P} {sí A} {la D} {Parca R} {vana G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	13	{viva G} {, O} {viva G} {feliz G} {la D} {edad N} {de P} {Apolo R}	B	oracional_comp-noun
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	14	{que Q} {no A} {la Q} {ha V} {de P} {acabar V} {, O} {quien Q} {la Q} {hace V} {eterna G} {. O}	I	oracional_comp-noun
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	1	{DOCTO N} {Monte R} {de P} {Musas R} {, O} {cuyo Q} {seno N}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	2	{In R} {auras G} {miro V} {ausentes G} {, O} {Peregrino R} {! O}	I	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	3	{Verás V} {, O} {si C} {, O} {terminando V} {su D} {camino N} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	4	{Ahora A} {paras O} {en P} {su D} {valle N} {ameno G} {; O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	5	{No A} {admires N} {, O} {no A} {, O} {si C} {en P} {tierra N} {lo Q} {terreno N}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	6	{PÉREZ R} {es V} {, O} {que Q} {, O} {en P} {su D} {cumbre N} {, O} {lo D} {divino G}	IB	enlace_subj_verb;sirrem_adj_prep-de
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	7	{DE P} {una D} {bien A} {, O} {y C} {de P} {otra D} {fama N} {dino N}	I	sirrem_adj_prep-de
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	8	{Mas R} {que C} {de P} {flor N} {, O} {está V} {de P} {glorias N} {lleno G} {. O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	9	{O C} {tú Q} {! O} {feliz G} {le Q} {admira V} {, O} {en P} {monumento N}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	10	{Nunca A} {oprimido G} {, O} {aunque C} {de P} {pesadumbre N}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	11	{Tanta Q} {; O} {y C} {sus D} {coros N} {luego A} {, O} {que C} {cantando V}	B	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	12	{Alegres R} {, O} {tejían P} {siempre A} {, O} {en P} {suave G} {acento N} {, O}	I	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	13	{Las D} {Musas R} {, O} {que Q} {, O} {variando V} {ya A} {costumbre N} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	14	{VAN R} {al P} {MONte R} {, O} {TAL R} {vez N} {( O} {y C} {VAN R} {) O} {llorando V} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	1	{¿ O} {Vives R} {, O} {o C} {no A} {? O} {que C} {la D} {razón N} {no A} {acierta V}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	2	{( O} {Gran R} {Majestad R} {) O} {a P} {discurrirte N} {, O} {altiva N}	B	oracional_comp-noun
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	3	{que Q} {tienes V} {mucho A} {grande G} {, O} {para P} {vida N} {, O}	I	oracional_comp-noun
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	4	{y C} {tienes V} {mucho A} {hermoso G} {, O} {para P} {muerta G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	5	{¿ O} {Qué Q} {vives V} {, O} {dudo A} {? O} {no A} {; O} {tu D} {vida N} {es V} {cierta G} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	6	{no A} {ha V} {de P} {ser V} {siempre A} {la D} {grandeza N} {esquiva G} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	7	{si C} {el D} {llegar V} {a P} {lo D} {más A} {es V} {, O} {quien Q} {derriba V} {, O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	8	{tuyo Q} {es V} {lo D} {más A} {, O} {pues C} {como C} {será V} {incierta G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	9	{De P} {grande G} {peligrabas V} {; O} {no A} {es V} {lo D} {menos A} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	10	{de P} {mayor G} {mejoraste N} {; O} {mucho A} {ha V} {sido V} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	11	{pero C} {más A} {es V} {de P} {excelsa N} {, O} {estar V} {segura G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	12	{O C} {aclame V} {ardor N} {de P} {números N} {muy A} {llenos G}	B	enlace_subj_verb
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	13	{tu D} {mejoría N} {, O} {si C} {en P} {lo D} {más A} {temido G} {, O}	I	enlace_subj_verb
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	14	{tubo N} {, O} {que Q} {mejora V} {tanta D} {hermosura N} {. O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	1	{Valencia R} {insigne V} {, O} {patria N} {venturosa G} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	2	{de P} {valor N} {, O} {y C} {de P} {ciencia N} {coronada G}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	3	{si C} {de P} {Minerva R} {Cátedra R} {afamada G}	B	sirrem_adj_prep-de
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	4	{de P} {Palas R} {plaza N} {ilustre G} {, O} {y C} {belicosa N} {. O}	I	sirrem_adj_prep-de
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	5	{Festiva R} {forma V} {una D} {corona N} {hermosa G}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	6	{igual G} {a P} {la D} {de P} {Alcides R} {celebrada G} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	7	{y C} {a P} {tal D} {Historiador R} {; O} {apasionada A}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	8	{corona N} {liberal G} {, O} {premia N} {gustosa G} {. O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	9	{De P} {Orti R} {conserva V} {la D} {inmortal G} {memoria N} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	10	{pues C} {nota V} {puntual G} {, O} {sutil G} {explica V}	B	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	11	{la D} {honra N} {, O} {que Q} {en P} {Tomás R} {Fénix R} {te Q} {aclama V} {. O}	I	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	12	{Consagra V} {esta D} {obra N} {rica G} {a P} {eterna G} {gloria N} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	13	{pues C} {la D} {del P} {Turia R} {al P} {Nilo R} {la D} {publica V}	B	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	14	{la D} {sonorosa G} {trompa N} {de P} {la D} {Fama R} {. O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	1	{Segundo R} {Fénix R} {que Q} {dejó V} {engendrado G}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	2	{la D} {ceniza N} {de P} {Lope R} {esclarecida G} {; O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	3	{tú Q} {que C} {diste V} {al P} {Parnaso R} {nueva G} {vida N} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	4	{viendo V} {el D} {Sol R} {de P} {las D} {Musas R} {eclipsado G} {. O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	5	{Ya A} {en P} {tu D} {tránsito N} {duro G} {ha V} {peligrado V}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	6	{la D} {pompa N} {del P} {Teatro N} {envanecida G} {; O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	7	{tarde A} {se Q} {mirará V} {convalecida G} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	8	{de P} {este D} {desastre N} {fúnebre G} {del P} {Hado R} {. O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	9	{Madrugaron V} {la D} {Muerte R} {, O} {y C} {la D} {Fortuna R}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	10	{a P} {disfrutarte V} {, O} {ensangrentando V} {fiera A}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	11	{una D} {la D} {Rueda R} {, O} {y C} {otra D} {la D} {Guadaña R} {. O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	12	{Juntas G} {troncaron V} {la D} {mayor G} {columna N} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	13	{que Q} {sustentó V} {la D} {peregrina N} {Esfera R} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	14	{del P} {mejor G} {espectáculo N} {de P} {España R} {. O}	OAndrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	1	{Peña R} {fuerte G} {es V} {Raimundo R} {en P} {su D} {apellido N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	2	{y C} {rey N} {del P} {mundo N} {el D} {nombre N} {le Q} {publica V} {; O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	3	{aquél A} {su D} {fortaleza N} {santa G} {explica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	4	{y C} {éste Q} {cuanto A} {hay V} {mortal G} {muestra N} {rendido G} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	5	{El D} {elemento N} {más A} {embravecido G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	6	{cuado C} {el D} {mato N} {en P} {las D} {ondas N} {su D} {fe N} {aplica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	7	{el D} {viento N} {mansamente G} {en P} {él Q} {se Q} {implica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	8	{hasta P} {haberle V} {en P} {la D} {playa N} {conducido V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	9	{Triunfó R} {del P} {mar N} {airado G} {y C} {de P} {los D} {vientos N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	10	{y C} {cuando C} {sus D} {preceptos N} {obedecen V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	11	{muestra V} {el D} {mundo N} {menor G} {sus D} {movimientos N} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	12	{En P} {unos Q} {y C} {otros D} {los D} {prodigios N} {crecen V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	13	{pues C} {penden V} {de P} {su D} {voz N} {dos D} {elementos N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	14	{y C} {lo Q} {hombres N} {escuchan V} {, O} {y C} {ensordecen V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	1	{El D} {Monte R} {excelso G} {que C} {la D} {blanca G} {Aurora R}	B	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	2	{con P} {trémulos N} {cambiantes G} {argentaba N} {, O}	I	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	3	{cuya Q} {sublime V} {cumbre N} {dibujaba V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	4	{los D} {dos D} {collados N} {donde Q} {Apolo A} {mora N} {; O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	5	{fúnebre G} {eclipse V} {su D} {esplendor N} {desdora A} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	6	{tanto A} {que C} {cuantas D} {plantas N} {albergaba V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	7	{oscura G} {densidad N} {las D} {emboscaba V} {, O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	8	{hurtando V} {a P} {Febo R} {la D} {porción N} {que Q} {ignora V} {; O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	9	{pero C} {en P} {vano G} {se Q} {oponen V} {sombras N} {frías G}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	10	{a P} {empañar V} {de P} {su D} {cima N} {los D} {verdores N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	11	{si C} {han V} {de P} {brillar V} {amenas N} {lozanías G} {; O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	12	{y C} {mal A} {pueden V} {ceder V} {a P} {los D} {horrores N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	13	{pues C} {a P} {pesar N} {del P} {tiempo N} {, O} {y C} {de P} {los D} {días N}	B	sirrem_noun_prep-de
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	14	{de P} {sus D} {cenizas N} {nacerán V} {las D} {flores N} {. O}	I	sirrem_noun_prep-de
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	1	{Del P} {fuego N} {abrasador G} {la Q} {llama V} {ardiente N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	2	{no A} {examina V} {en P} {Laurencio R} {lo Q} {inflamado G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	3	{que Q} {el D} {calor N} {de P} {las D} {ascuas N} {no A} {ha V} {quemado V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	4	{porque C} {en P} {su D} {pecho N} {, O} {incendio N} {mayor G} {siente V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	5	{La D} {actividad N} {de P} {Orencio R} {no A} {consiente V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	6	{que Q} {le Q} {refríe V} {del P} {cristal N} {lo Q} {helado N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	7	{porque C} {el D} {hielo N} {, O} {en P} {pavesas N} {transformado G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	8	{confiesa V} {el D} {vencimiento N} {claramente A} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	9	{Laurencio R} {se Q} {acredita N} {de P} {animoso N}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	10	{en P} {las D} {llamas N} {, O} {y C} {Orencio R} {en P} {los D} {cristales N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	11	{rayos N} {brilla V} {el D} {amor N} {afectuoso G} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	12	{Que C} {venzan V} {elementos N} {desiguales G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	13	{no A} {es V} {mucho A} {, O} {cuando C} {en P} {parto N} {prodigioso G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	14	{la D} {Paciencia R} {les Q} {dio V} {fuerzas N} {iguales G} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	1	{El D} {Ebro R} {en P} {su D} {corriente N} {cristalina G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	2	{célebre G} {Alcino R} {, O} {tus D} {discretas G} {sales N} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	3	{pues C} {, O} {con P} {tus D} {agudezas N} {, O} {sus D} {caudales N} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	4	{no A} {envidiarán V} {la D} {fuente N} {Cabalina R} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	5	{Tu D} {voz N} {resuene V} {dulce G} {, O} {peregrina G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	6	{en P} {los D} {climas N} {remotos G} {Boreales R} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	7	{porque C} {de P} {tu D} {elocuencia N} {los D} {raudales N}	B	sirrem_noun_prep-al
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	8	{al P} {mayor G} {Lauro R} {, O} {Febo R} {los D} {destina V} {. O}	I	sirrem_noun_prep-al
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	9	{El D} {Clarín R} {resonante G} {de P} {la D} {fama N}	B	sirrem_adj_noun
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	10	{aplauda G} {sus D} {cadencias N} {ingeniosas G} {, O}	I	sirrem_adj_noun
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	11	{cuando C} {el D} {sonoro G} {Pindo R} {las D} {aclama N} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	12	{Y C} {exentas N} {de P} {las D} {sombras N} {envidiosas G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	13	{de P} {Daphne R} {las D} {corone V} {inmortal G} {Rama R} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	14	{para P} {que C} {brillen V} {siempre A} {victoriosas G} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	1	{La D} {Madre R} {Augusta R} {, O} {el D} {Príncipe R} {nacido G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	2	{felicidad N} {fatal G} {de P} {que C} {adolece V} {; O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	3	{toda D} {la D} {eternidad N} {que Q} {en P} {él Q} {se Q} {acrece V} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	4	{ya A} {pensó V} {el D} {hado N} {que Q} {la Q} {había V} {vivido V} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	5	{Recobrose R} {con P} {gozo N} {más A} {crecido G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	6	{y C} {en P} {la D} {Real R} {vida N} {el D} {susto N} {convalece V} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	7	{desengañado N} {de P} {que C} {no A} {fenece V}	B	enlace_od_verb
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	8	{lo D} {eterno G} {, O} {aunque C} {en P} {un D} {punto N} {conseguido G} {. O}	I	enlace_od_verb
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	9	{O C} {cuánto Q} {la D} {Agustísima R} {Mariana R} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	10	{vivó V} {de P} {gloria N} {en P} {el D} {instante N} {sólo A} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	11	{que C} {dio V} {una D} {Majestad R} {a P} {España R} {tierna V} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	12	{Mas R} {si C} {armó V} {contra P} {sí A} {la D} {Parca R} {vana G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	13	{viva G} {, O} {viva G} {feliz G} {la D} {edad N} {de P} {Apolo R}	B	oracional_comp-noun
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	14	{que Q} {no A} {la Q} {ha V} {de P} {acabar V} {, O} {quien Q} {la Q} {hace V} {eterna G} {. O}	I	oracional_comp-noun
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	1	{DOCTO N} {Monte R} {de P} {Musas R} {, O} {cuyo Q} {seno N}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	2	{In R} {auras G} {miro V} {ausentes G} {, O} {Peregrino R} {! O}	I	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	3	{Verás V} {, O} {si C} {, O} {terminando V} {su D} {camino N} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	4	{Ahora A} {paras O} {en P} {su D} {valle N} {ameno G} {; O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	5	{No A} {admires N} {, O} {no A} {, O} {si C} {en P} {tierra N} {lo Q} {terreno N}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	6	{PÉREZ R} {es V} {, O} {que Q} {, O} {en P} {su D} {cumbre N} {, O} {lo D} {divino G}	IB	enlace_subj_verb;sirrem_adj_prep-de
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	7	{DE P} {una D} {bien A} {, O} {y C} {de P} {otra D} {fama N} {dino N}	I	sirrem_adj_prep-de
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	8	{Mas R} {que C} {de P} {flor N} {, O} {está V} {de P} {glorias N} {lleno G} {. O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	9	{O C} {tú Q} {! O} {feliz G} {le Q} {admira V} {, O} {en P} {monumento N}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	10	{Nunca A} {oprimido G} {, O} {aunque C} {de P} {pesadumbre N}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	11	{Tanta Q} {; O} {y C} {sus D} {coros N} {luego A} {, O} {que C} {cantando V}	B	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	12	{Alegres R} {, O} {tejían P} {siempre A} {, O} {en P} {suave G} {acento N} {, O}	I	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	13	{Las D} {Musas R} {, O} {que Q} {, O} {variando V} {ya A} {costumbre N} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	14	{VAN R} {al P} {MONte R} {, O} {TAL R} {vez N} {( O} {y C} {VAN R} {) O} {llorando V} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	1	{¿ O} {Vives R} {, O} {o C} {no A} {? O} {que C} {la D} {razón N} {no A} {acierta V}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	2	{( O} {Gran R} {Majestad R} {) O} {a P} {discurrirte N} {, O} {altiva N}	B	oracional_comp-noun
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	3	{que Q} {tienes V} {mucho A} {grande G} {, O} {para P} {vida N} {, O}	I	oracional_comp-noun
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	4	{y C} {tienes V} {mucho A} {hermoso G} {, O} {para P} {muerta G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	5	{¿ O} {Qué Q} {vives V} {, O} {dudo A} {? O} {no A} {; O} {tu D} {vida N} {es V} {cierta G} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	6	{no A} {ha V} {de P} {ser V} {siempre A} {la D} {grandeza N} {esquiva G} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	7	{si C} {el D} {llegar V} {a P} {lo D} {más A} {es V} {, O} {quien Q} {derriba V} {, O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	8	{tuyo Q} {es V} {lo D} {más A} {, O} {pues C} {como C} {será V} {incierta G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	9	{De P} {grande G} {peligrabas V} {; O} {no A} {es V} {lo D} {menos A} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	10	{de P} {mayor G} {mejoraste N} {; O} {mucho A} {ha V} {sido V} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	11	{pero C} {más A} {es V} {de P} {excelsa N} {, O} {estar V} {segura G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	12	{O C} {aclame V} {ardor N} {de P} {números N} {muy A} {llenos G}	B	enlace_subj_verb
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	13	{tu D} {mejoría N} {, O} {si C} {en P} {lo D} {más A} {temido G} {, O}	I	enlace_subj_verb
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	14	{tubo N} {, O} {que Q} {mejora V} {tanta D} {hermosura N} {. O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	1	{Valencia R} {insigne V} {, O} {patria N} {venturosa G} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	2	{de P} {valor N} {, O} {y C} {de P} {ciencia N} {coronada G}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	3	{si C} {de P} {Minerva R} {Cátedra R} {afamada G}	B	sirrem_adj_prep-de
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	4	{de P} {Palas R} {plaza N} {ilustre G} {, O} {y C} {belicosa N} {. O}	I	sirrem_adj_prep-de
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	5	{Festiva R} {forma V} {una D} {corona N} {hermosa G}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	6	{igual G} {a P} {la D} {de P} {Alcides R} {celebrada G} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	7	{y C} {a P} {tal D} {Historiador R} {; O} {apasionada A}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	8	{corona N} {liberal G} {, O} {premia N} {gustosa G} {. O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	9	{De P} {Orti R} {conserva V} {la D} {inmortal G} {memoria N} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	10	{pues C} {nota V} {puntual G} {, O} {sutil G} {explica V}	B	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	11	{la D} {honra N} {, O} {que Q} {en P} {Tomás R} {Fénix R} {te Q} {aclama V} {. O}	I	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	12	{Consagra V} {esta D} {obra N} {rica G} {a P} {eterna G} {gloria N} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	13	{pues C} {la D} {del P} {Turia R} {al P} {Nilo R} {la D} {publica V}	B	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	14	{la D} {sonorosa G} {trompa N} {de P} {la D} {Fama R} {. O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	1	{Segundo R} {Fénix R} {que Q} {dejó V} {engendrado G}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	2	{la D} {ceniza N} {de P} {Lope R} {esclarecida G} {; O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	3	{tú Q} {que C} {diste V} {al P} {Parnaso R} {nueva G} {vida N} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	4	{viendo V} {el D} {Sol R} {de P} {las D} {Musas R} {eclipsado G} {. O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	5	{Ya A} {en P} {tu D} {tránsito N} {duro G} {ha V} {peligrado V}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	6	{la D} {pompa N} {del P} {Teatro N} {envanecida G} {; O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	7	{tarde A} {se Q} {mirará V} {convalecida G} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	8	{de P} {este D} {desastre N} {fúnebre G} {del P} {Hado R} {. O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	9	{Madrugaron V} {la D} {Muerte R} {, O} {y C} {la D} {Fortuna R}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	10	{a P} {disfrutarte V} {, O} {ensangrentando V} {fiera A}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	11	{una D} {la D} {Rueda R} {, O} {y C} {otra D} {la D} {Guadaña R} {. O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	12	{Juntas G} {troncaron V} {la D} {mayor G} {columna N} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	13	{que Q} {sustentó V} {la D} {peregrina N} {Esfera R} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	14	{del P} {mejor G} {espectáculo N} {de P} {España R} {. O}	OAndrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	1	{Peña R} {fuerte G} {es V} {Raimundo R} {en P} {su D} {apellido N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	2	{y C} {rey N} {del P} {mundo N} {el D} {nombre N} {le Q} {publica V} {; O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	3	{aquél A} {su D} {fortaleza N} {santa G} {explica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	4	{y C} {éste Q} {cuanto A} {hay V} {mortal G} {muestra N} {rendido G} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	5	{El D} {elemento N} {más A} {embravecido G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	6	{cuado C} {el D} {mato N} {en P} {las D} {ondas N} {su D} {fe N} {aplica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	7	{el D} {viento N} {mansamente G} {en P} {él Q} {se Q} {implica V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	8	{hasta P} {haberle V} {en P} {la D} {playa N} {conducido V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	9	{Triunfó R} {del P} {mar N} {airado G} {y C} {de P} {los D} {vientos N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	10	{y C} {cuando C} {sus D} {preceptos N} {obedecen V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	11	{muestra V} {el D} {mundo N} {menor G} {sus D} {movimientos N} {. O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	12	{En P} {unos Q} {y C} {otros D} {los D} {prodigios N} {crecen V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	13	{pues C} {penden V} {de P} {su D} {voz N} {dos D} {elementos N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_Raimundo_de_Peñafort__0040_annot	14	{y C} {lo Q} {hombres N} {escuchan V} {, O} {y C} {ensordecen V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	1	{El D} {Monte R} {excelso G} {que C} {la D} {blanca G} {Aurora R}	B	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	2	{con P} {trémulos N} {cambiantes G} {argentaba N} {, O}	I	enlace_subj_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	3	{cuya Q} {sublime V} {cumbre N} {dibujaba V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	4	{los D} {dos D} {collados N} {donde Q} {Apolo A} {mora N} {; O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	5	{fúnebre G} {eclipse V} {su D} {esplendor N} {desdora A} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	6	{tanto A} {que C} {cuantas D} {plantas N} {albergaba V}	B	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	7	{oscura G} {densidad N} {las D} {emboscaba V} {, O}	I	enlace_od_verb
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	8	{hurtando V} {a P} {Febo R} {la D} {porción N} {que Q} {ignora V} {; O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	9	{pero C} {en P} {vano G} {se Q} {oponen V} {sombras N} {frías G}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	10	{a P} {empañar V} {de P} {su D} {cima N} {los D} {verdores N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	11	{si C} {han V} {de P} {brillar V} {amenas N} {lozanías G} {; O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	12	{y C} {mal A} {pueden V} {ceder V} {a P} {los D} {horrores N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	13	{pues C} {a P} {pesar N} {del P} {tiempo N} {, O} {y C} {de P} {los D} {días N}	B	sirrem_noun_prep-de
+Andrés,_Juan_Francisco__021~~A_la_muerte_del_doctor_Juan_Pérez_de_Montalbán__0038_annot	14	{de P} {sus D} {cenizas N} {nacerán V} {las D} {flores N} {. O}	I	sirrem_noun_prep-de
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	1	{Del P} {fuego N} {abrasador G} {la Q} {llama V} {ardiente N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	2	{no A} {examina V} {en P} {Laurencio R} {lo Q} {inflamado G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	3	{que Q} {el D} {calor N} {de P} {las D} {ascuas N} {no A} {ha V} {quemado V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	4	{porque C} {en P} {su D} {pecho N} {, O} {incendio N} {mayor G} {siente V} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	5	{La D} {actividad N} {de P} {Orencio R} {no A} {consiente V} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	6	{que Q} {le Q} {refríe V} {del P} {cristal N} {lo Q} {helado N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	7	{porque C} {el D} {hielo N} {, O} {en P} {pavesas N} {transformado G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	8	{confiesa V} {el D} {vencimiento N} {claramente A} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	9	{Laurencio R} {se Q} {acredita N} {de P} {animoso N}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	10	{en P} {las D} {llamas N} {, O} {y C} {Orencio R} {en P} {los D} {cristales N} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	11	{rayos N} {brilla V} {el D} {amor N} {afectuoso G} {. O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	12	{Que C} {venzan V} {elementos N} {desiguales G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	13	{no A} {es V} {mucho A} {, O} {cuando C} {en P} {parto N} {prodigioso G} {, O}	O
+Andrés,_Juan_Francisco__021~~A_la_santa_paciencia__0041_annot	14	{la D} {Paciencia R} {les Q} {dio V} {fuerzas N} {iguales G} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	1	{El D} {Ebro R} {en P} {su D} {corriente N} {cristalina G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	2	{célebre G} {Alcino R} {, O} {tus D} {discretas G} {sales N} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	3	{pues C} {, O} {con P} {tus D} {agudezas N} {, O} {sus D} {caudales N} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	4	{no A} {envidiarán V} {la D} {fuente N} {Cabalina R} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	5	{Tu D} {voz N} {resuene V} {dulce G} {, O} {peregrina G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	6	{en P} {los D} {climas N} {remotos G} {Boreales R} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	7	{porque C} {de P} {tu D} {elocuencia N} {los D} {raudales N}	B	sirrem_noun_prep-al
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	8	{al P} {mayor G} {Lauro R} {, O} {Febo R} {los D} {destina V} {. O}	I	sirrem_noun_prep-al
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	9	{El D} {Clarín R} {resonante G} {de P} {la D} {fama N}	B	sirrem_adj_noun
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	10	{aplauda G} {sus D} {cadencias N} {ingeniosas G} {, O}	I	sirrem_adj_noun
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	11	{cuando C} {el D} {sonoro G} {Pindo R} {las D} {aclama N} {. O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	12	{Y C} {exentas N} {de P} {las D} {sombras N} {envidiosas G} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	13	{de P} {Daphne R} {las D} {corone V} {inmortal G} {Rama R} {, O}	O
+Andrés,_Juan_Francisco__021~~Epigrama__0037_annot	14	{para P} {que C} {brillen V} {siempre A} {victoriosas G} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	1	{La D} {Madre R} {Augusta R} {, O} {el D} {Príncipe R} {nacido G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	2	{felicidad N} {fatal G} {de P} {que C} {adolece V} {; O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	3	{toda D} {la D} {eternidad N} {que Q} {en P} {él Q} {se Q} {acrece V} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	4	{ya A} {pensó V} {el D} {hado N} {que Q} {la Q} {había V} {vivido V} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	5	{Recobrose R} {con P} {gozo N} {más A} {crecido G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	6	{y C} {en P} {la D} {Real R} {vida N} {el D} {susto N} {convalece V} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	7	{desengañado N} {de P} {que C} {no A} {fenece V}	B	enlace_od_verb
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	8	{lo D} {eterno G} {, O} {aunque C} {en P} {un D} {punto N} {conseguido G} {. O}	I	enlace_od_verb
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	9	{O C} {cuánto Q} {la D} {Agustísima R} {Mariana R} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	10	{vivó V} {de P} {gloria N} {en P} {el D} {instante N} {sólo A} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	11	{que C} {dio V} {una D} {Majestad R} {a P} {España R} {tierna V} {. O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	12	{Mas R} {si C} {armó V} {contra P} {sí A} {la D} {Parca R} {vana G} {, O}	O
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	13	{viva G} {, O} {viva G} {feliz G} {la D} {edad N} {de P} {Apolo R}	B	oracional_comp-noun
+Anguita_y_Monguia,_Pedro__464~~Soneto__0981_annot	14	{que Q} {no A} {la Q} {ha V} {de P} {acabar V} {, O} {quien Q} {la Q} {hace V} {eterna G} {. O}	I	oracional_comp-noun
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	1	{DOCTO N} {Monte R} {de P} {Musas R} {, O} {cuyo Q} {seno N}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	2	{In R} {auras G} {miro V} {ausentes G} {, O} {Peregrino R} {! O}	I	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	3	{Verás V} {, O} {si C} {, O} {terminando V} {su D} {camino N} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	4	{Ahora A} {paras O} {en P} {su D} {valle N} {ameno G} {; O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	5	{No A} {admires N} {, O} {no A} {, O} {si C} {en P} {tierra N} {lo Q} {terreno N}	B	enlace_subj_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	6	{PÉREZ R} {es V} {, O} {que Q} {, O} {en P} {su D} {cumbre N} {, O} {lo D} {divino G}	IB	enlace_subj_verb;sirrem_adj_prep-de
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	7	{DE P} {una D} {bien A} {, O} {y C} {de P} {otra D} {fama N} {dino N}	I	sirrem_adj_prep-de
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	8	{Mas R} {que C} {de P} {flor N} {, O} {está V} {de P} {glorias N} {lleno G} {. O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	9	{O C} {tú Q} {! O} {feliz G} {le Q} {admira V} {, O} {en P} {monumento N}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	10	{Nunca A} {oprimido G} {, O} {aunque C} {de P} {pesadumbre N}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	11	{Tanta Q} {; O} {y C} {sus D} {coros N} {luego A} {, O} {que C} {cantando V}	B	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	12	{Alegres R} {, O} {tejían P} {siempre A} {, O} {en P} {suave G} {acento N} {, O}	I	enlace_od_verb
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	13	{Las D} {Musas R} {, O} {que Q} {, O} {variando V} {ya A} {costumbre N} {, O}	O
+Angulo_y_Pulgar,_Martín__155~~Al_doctor_Juan_Pérez_Montalbán__0299_annot	14	{VAN R} {al P} {MONte R} {, O} {TAL R} {vez N} {( O} {y C} {VAN R} {) O} {llorando V} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	1	{¿ O} {Vives R} {, O} {o C} {no A} {? O} {que C} {la D} {razón N} {no A} {acierta V}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	2	{( O} {Gran R} {Majestad R} {) O} {a P} {discurrirte N} {, O} {altiva N}	B	oracional_comp-noun
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	3	{que Q} {tienes V} {mucho A} {grande G} {, O} {para P} {vida N} {, O}	I	oracional_comp-noun
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	4	{y C} {tienes V} {mucho A} {hermoso G} {, O} {para P} {muerta G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	5	{¿ O} {Qué Q} {vives V} {, O} {dudo A} {? O} {no A} {; O} {tu D} {vida N} {es V} {cierta G} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	6	{no A} {ha V} {de P} {ser V} {siempre A} {la D} {grandeza N} {esquiva G} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	7	{si C} {el D} {llegar V} {a P} {lo D} {más A} {es V} {, O} {quien Q} {derriba V} {, O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	8	{tuyo Q} {es V} {lo D} {más A} {, O} {pues C} {como C} {será V} {incierta G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	9	{De P} {grande G} {peligrabas V} {; O} {no A} {es V} {lo D} {menos A} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	10	{de P} {mayor G} {mejoraste N} {; O} {mucho A} {ha V} {sido V} {; O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	11	{pero C} {más A} {es V} {de P} {excelsa N} {, O} {estar V} {segura G} {. O}	O
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	12	{O C} {aclame V} {ardor N} {de P} {números N} {muy A} {llenos G}	B	enlace_subj_verb
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	13	{tu D} {mejoría N} {, O} {si C} {en P} {lo D} {más A} {temido G} {, O}	I	enlace_subj_verb
+Angulo_y_Velázquez,_Isidro__207~~Soneto__0447_annot	14	{tubo N} {, O} {que Q} {mejora V} {tanta D} {hermosura N} {. O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	1	{Valencia R} {insigne V} {, O} {patria N} {venturosa G} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	2	{de P} {valor N} {, O} {y C} {de P} {ciencia N} {coronada G}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	3	{si C} {de P} {Minerva R} {Cátedra R} {afamada G}	B	sirrem_adj_prep-de
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	4	{de P} {Palas R} {plaza N} {ilustre G} {, O} {y C} {belicosa N} {. O}	I	sirrem_adj_prep-de
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	5	{Festiva R} {forma V} {una D} {corona N} {hermosa G}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	6	{igual G} {a P} {la D} {de P} {Alcides R} {celebrada G} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	7	{y C} {a P} {tal D} {Historiador R} {; O} {apasionada A}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	8	{corona N} {liberal G} {, O} {premia N} {gustosa G} {. O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	9	{De P} {Orti R} {conserva V} {la D} {inmortal G} {memoria N} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	10	{pues C} {nota V} {puntual G} {, O} {sutil G} {explica V}	B	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	11	{la D} {honra N} {, O} {que Q} {en P} {Tomás R} {Fénix R} {te Q} {aclama V} {. O}	I	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	12	{Consagra V} {esta D} {obra N} {rica G} {a P} {eterna G} {gloria N} {, O}	O
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	13	{pues C} {la D} {del P} {Turia R} {al P} {Nilo R} {la D} {publica V}	B	enlace_od_verb
+Aragonés,_Joseph__001~~Con_dicciones_valencianas_y_castellanas__0001_annot	14	{la D} {sonorosa G} {trompa N} {de P} {la D} {Fama R} {. O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	1	{Segundo R} {Fénix R} {que Q} {dejó V} {engendrado G}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	2	{la D} {ceniza N} {de P} {Lope R} {esclarecida G} {; O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	3	{tú Q} {que C} {diste V} {al P} {Parnaso R} {nueva G} {vida N} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	4	{viendo V} {el D} {Sol R} {de P} {las D} {Musas R} {eclipsado G} {. O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	5	{Ya A} {en P} {tu D} {tránsito N} {duro G} {ha V} {peligrado V}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	6	{la D} {pompa N} {del P} {Teatro N} {envanecida G} {; O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	7	{tarde A} {se Q} {mirará V} {convalecida G} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	8	{de P} {este D} {desastre N} {fúnebre G} {del P} {Hado R} {. O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	9	{Madrugaron V} {la D} {Muerte R} {, O} {y C} {la D} {Fortuna R}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	10	{a P} {disfrutarte V} {, O} {ensangrentando V} {fiera A}	B	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	11	{una D} {la D} {Rueda R} {, O} {y C} {otra D} {la D} {Guadaña R} {. O}	I	enlace_od_verb
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	12	{Juntas G} {troncaron V} {la D} {mayor G} {columna N} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	13	{que Q} {sustentó V} {la D} {peregrina N} {Esfera R} {, O}	O
+Aragón_y_Mendoza,_Jacinto__262~~Al_doctor_Juan_Pérez_de_Montalbán__0544_annot	14	{del P} {mejor G} {espectáculo N} {de P} {España R} {. O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	1	{Esta D} {corona N} {de P} {triunfante G} {grama N} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	2	{que Q} {adorno N} {fue V} {del P} {Héroe R} {más A} {valiente G} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	3	{y C} {ya A} {funesto G} {ciñe V} {dignamente A}	B	enlace_od_verb
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	4	{las D} {invisibles G} {sienes N} {de P} {su D} {fama N} {. O}	I	enlace_od_verb
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	5	{Este D} {solio N} {, O} {que Q} {en P} {sombras N} {se Q} {derrama V} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	6	{y C} {en P} {dos D} {imperios N} {se Q} {miró V} {luciente A} {. O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	7	{Esta D} {fe N} {que Q} {se Q} {arroja V} {irreverente A}	O	
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	8	{sobre P} {la D} {muerte N} {religiosa G} {llama V} {; O}	O	
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	9	{glorias N} {fueron V} {de P} {aquel D} {a P} {quien Q} {amaste V} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	10	{España R} {, O} {y C} {en P} {su D} {pecho N} {le Q} {tuviste V} {, O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	11	{y C} {aquí A} {yace V} {su D} {luz N} {sin P} {ejercicio N} {. O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	12	{¿ O} {O C} {muerte N} {, O} {para P} {qué Q} {lo Q} {ejecutaste V} {? O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	13	{¿ O} {O C} {cielo N} {, O} {para P} {qué Q} {lo Q} {permitiste V} {? O}	O
+Cáncer_y_Velasco,_Jerónimo__043~~A_la_muerte_del_excelentísimo_señor_Almirante_de_C__0076_annot	14	{O C} {amor N} {, O} {llora V} {no A} {más A} {, O} {que C} {este D} {es V} {tu D} {oficio N} {. O}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	1	{Cuando C} {me Q} {paro N} {a P} {contemplar V} {la D} {vida N} {, O}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	2	{y C} {echo V} {los D} {ojos N} {con P} {mi D} {pensamiento N}	B	sirrem_perif_verb
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	3	{a P} {ver V} {los D} {lasos N} {miembros N} {sin P} {aliento N} {, O}	I	sirrem_perif_verb
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	4	{y C} {la D} {robusta N} {edad N} {enflaquecida G} {, O}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	5	{y C} {aquella D} {juventud N} {rica G} {y C} {florida N} {, O}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	6	{cual Q} {llama V} {de P} {candela N} {en P} {presto N} {viento N}	O	
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	7	{batida G} {con P} {tan A} {recio N} {movimiento N} {, O}	O	
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	8	{que Q} {a P} {pique V} {estuvo V} {ya A} {de P} {ser V} {perdida G} {, O}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	9	{condeno N} {de P} {mi D} {vida N} {la D} {tibieza N}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	10	{y C} {el D} {grande G} {desconcierto N} {en P} {que Q} {he V} {andado V}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	11	{que C} {a P} {tal D} {peligro N} {presto G} {me Q} {tuvieron V} {. O}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	12	{Y C} {con P} {velocidad N} {y C} {ligereza N}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	13	{determino N} {de P} {huir V} {de P} {aqueste D} {estado N} {, O}	O
+Fray_Luis_de_León__011~~Sonetos__0020__-_VI_-__06_annot	14	{do G} {mis D} {continuas G} {culpas N} {me Q} {pusieron V} {. O}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	1	{Lloro R} {la D} {hermana N} {, O} {maguer N} {qu' Q} {enemiga G} {, O}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	2	{al P} {rey N} {don N }{Sancho R} {, O} {e C} {con P} {grand G} {sentido N}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	3	{proçedió V} {presto N} {contra P} {el D} {mal N} {Vellido G} {, O}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	4	{servando V} {en P} {acto N} {la D} {fraternal G} {liga N} {. O}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	5	{¡ O} {O C} {dulçe N} {hermano N} {! O} {, O} {pues C} {yo Q} {, O} {que Q} {tanto A} {amiga N}	B	enlace_subj_verb
+Marqués_de_Santillana__178~~-_II_-__0345_annot	6	{jamás A} {te Q} {fue V} {, O} {¿ O} {cómo Q} {podré V} {celar V}	IB	enlace_subj_verb;sirrem_perif_verb
+Marqués_de_Santillana__178~~-_II_-__0345_annot	7	{de P} {te Q} {llorar V} {, O} {plañir V} {e C} {lamentar V} {, O}	I	sirrem_perif_verb
+Marqués_de_Santillana__178~~-_II_-__0345_annot	8	{por P} {bien A} {qu' P} {el D} {seso N} {contraste N} {e C} {desdiga N} {? O}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	9	{¡ O} {O C} {real G} {casa N} {, O} {tanto A} {perseguida G}	B	sirrem_adj_prep-de
+Marqués_de_Santillana__178~~-_II_-__0345_annot	10	{de P} {la D} {mala G} {fortuna N} {e C} {molestada N} {! O}	I	sirrem_adj_prep-de
+Marqués_de_Santillana__178~~-_II_-__0345_annot	11	{Non A} {pienso V} {Juno P} {que C} {más A} {encendida G}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	12	{fue V} {contra P} {Thebas R} {, O} {nin D} {tanto A} {indignada N}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	13	{¡ O} {Antropos N} {! O} {, O} {muerte N} {me Q} {place N} {e C} {non N} {vida N} {, O}	O
+Marqués_de_Santillana__178~~-_II_-__0345_annot	14	{si C} {tal Q} {ventura N} {ya A} {non A} {es V} {cansada G} {. O}	O
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	1	{Filis R} {, O} {de P} {amor N} {hechizo G} {soberano G} {, O}	O
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	2	{cortar V} {quiso V} {un D} {jazmín N} {desvanecido G} {, O}	O
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	3	{y C} {de P} {cinco D} {mirándose V} {excedido G}	O	
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	4	{quedó V} {del P} {vencimiento N} {más A} {ufano G} {. O}	O	
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	5	{No A} {bien A} {corta V} {el D} {jazmín N} {, O} {cuando C} {tirano N}	O
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	6	{acero N} {, O} {en P} {rojo G} {humor N} {otro D} {ha V} {teñido G} {, O}	O
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	7	{mintiendo V} {ramillete N} {entretejido G}	B	sirrem_noun_prep-de
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	8	{de P} {jazmín N} {y C} {clavel V} {la D} {hermosa G} {mano N} {. O}	I	sirrem_noun_prep-de
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	9	{Atropos R} {bella G} {a P} {la D} {tijera N} {cede V}	B	enlace_od_verb
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	10	{piadosa N} {ejecución N} {si C} {, O} {inadvertida G} {, O}	I	enlace_od_verb
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	11	{a P} {su D} {mano N} {dolor N} {ocasionando N} {. O}	O
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	12	{Que C} {si C} {alma N} {con P} {su D} {sangre N} {dar V} {no A} {puede V} {, O}	O
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	13	{en P} {vez N} {de P} {muerte N} {, O} {dio V} {al P} {jazmín N} {la D} {vida N} {, O}	O
+Sor_María_de_Santa_Isabel__435~~Dándome_por_asunto_cortarse_un_dedo_llegando_a_cor__0940_annot	14	{de P} {amor N} {el D} {dulce G} {imperio N} {dilatando V} {. O}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	1	{Alegres R} {horas N} {de P} {memorias N} {tristes G}	B	oracional_comp-noun
+Arteaga,_Juana_de__179~~Soneto__0386_annot	2	{que Q} {por P} {un D} {breve G} {punto N} {que Q} {durasteis V}	IB	oracional_comp-noun;enlace_subj_verb
+Arteaga,_Juana_de__179~~Soneto__0386_annot	3	{a P} {eterna G} {soledad N} {me Q} {condenasteis V}	I	enlace_subj_verb
+Arteaga,_Juana_de__179~~Soneto__0386_annot	4	{en P} {pago N} {del P} {contento G} {que Q} {me Q} {disteis V} {. O}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	5	{Decid V} {: O} {¿ O} {por P} {qué Q} {de P} {mí Q} {sin P} {mí Q} {os Q} {partisteis N}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	6	{sabiendo V} {vos N} {sin P} {vos N} {cual Q} {me Q} {dejastes V} {? O}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	7	{Y C} {si C} {por P} {do G} {vinisteis N} {os Q} {tornastes N} {, O}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	8	{¿ O} {por P} {qué Q} {no A} {al P} {mismo D} {punto N} {que C} {vinisteis V} {? O}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	9	{¡ O} {Cuánto R} {fue V} {esta D} {venida N} {deseada G}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	10	{y C} {cuán A} {arrebatada G} {esta D} {venida N} {! O}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	11	{Que C} {, O} {en P} {fin N} {, O} {la D} {mejor G} {hora N} {fue V} {menguada G} {. O}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	12	{No A} {me Q} {costasteis V} {menos A} {que C} {una D} {vida N} {: O}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	13	{la D} {media N} {en P} {desear V} {vuestra D} {llegada N}	O
+Arteaga,_Juana_de__179~~Soneto__0386_annot	14	{y C} {la D} {media N} {en P} {llorar V} {vuestra D} {partida N} {. O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	1	{Suspende V} {el D} {sentimiento N} {, O} {o C} {Caminante R} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	2	{que Q} {el D} {bronce N} {más A} {rebelde G} {permitiera V} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	3	{si C} {alma N} {para P} {sentir V} {aquí A} {tuviera V} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	4	{y C} {el D} {corazón N} {tuviera V} {de P} {diamante N} {. O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	5	{Si C} {ves V} {por P} {tierra N} {este D} {sublime N} {Atlante R} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	6	{que Q} {de P} {Apolo R} {tocó V} {la D} {clara G} {Esfera R} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	7	{que Q} {fue V} {su D} {muerte N} {justa G} {considera V} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	8	{aunque C} {la D} {vida N} {fue V} {tan A} {breve G} {instante N} {. O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	9	{Toda D} {la D} {gloria N} {tuvo V} {conseguida G}	B	sirrem_adj_prep-de
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	10	{de P} {un D} {mundo N} {sólo A} {que C} {ay O} {, O} {con P} {feliz G} {suerte N}	I	sirrem_adj_prep-de
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	11	{lo D} {poco A} {de P} {su D} {vida N} {esclarecida G} {. O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	12	{No A} {había V} {otra D} {Fama R} {que C} {ganara V} {( O} {advierte V} {) O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	13	{luego A} {faltara V} {premio N} {a P} {la D} {más A} {vida N} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_mismo_tema__0069_annot	14	{pues C} {la D} {vida N} {sin P} {premio N} {, O} {que Q} {más A} {muerte N} {. O}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	1	{Aquí A} {vive V} {, O} {aquí A} {muere V} {, O} {aquí A} {renace V} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	2	{aquí A} {desmaya A} {, O} {y C} {triunfa V} {, O} {aquí A} {animado G}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	3	{hasta P} {los D} {mismos Q} {Cielos R} {levantado V}	B	enlace_od_verb
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	4	{este D} {que Q} {humilde G} {por P} {la D} {tierra N} {yace V} {. O}	I	enlace_od_verb
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	5	{Aquí A} {a P} {la D} {fiera G} {muerte N} {satisface V}	B	sirrem_verb_supl
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	6	{de P} {nueva G} {vida N} {, O} {y C} {gloria N} {coronado N} {, O}	I	sirrem_verb_supl
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	7	{este D} {cadáver N} {vivo G} {sepultado G} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	8	{que Q} {Sol R} {fulgente A} {de P} {su D} {sombra N} {nace V} {. O}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	9	{No A} {llore V} {pues C} {el D} {alma N} {enternecida G} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	10	{que Q} {no A} {s N} {justo A} {llorar V} {tan A} {feliz G} {muerte N}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	11	{en P} {su D} {gloriosa G} {fama N} {divertida G} {. O}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	12	{Cántese P} {la D} {victoria N} {al P} {Joven R} {fuerte G} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	13	{que Q} {aquí A} {la D} {muerte N} {, O} {no A} {venció V} {a P} {la D} {vida N} {, O}	O
+Barreda,_Antonia_Jacinta__041~~Al_sepulcro_de_don_Juan_Pérez_de_Montalbán__0068_annot	14	{sino C} {la D} {vida N} {aquí A} {venció V} {a P} {la D} {muerte N} {. O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	1	{-Tengo V} {sed N} {, O} {sed N} {ardiente A} {- O} {dije V} {a P} {la D} {maga N} {, O} {y C} {ella Q}	B	enlace_subj_verb
+Agustini,_Delmira__321~~La_sed__1051_annot	2	{me Q} {ofreció V} {de P} {sus D} {néctares- N} {. O} {Eso Q} {no A} {: O} {¡ O} {me Q} {empalaga V} {! O} {- O}	I	enlace_subj_verb
+Agustini,_Delmira__321~~La_sed__1051_annot	3	{Luego A} {una D} {rara G} {fruta N} {, O} {con P} {sus D} {dedos N} {de P} {maga N}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	4	{exprimió V} {en P} {una D} {copa N} {, O} {clara G} {como C} {una D} {estrella N} {; O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	5	{y C} {un D} {brillo N} {de P} {rubíes N} {hubo V} {en P} {la D} {copa N} {bella G} {. O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	6	{Yo Q} {probé. A} {- O} {¡ O} {Es V} {dulce G} {, O} {dulce G} {! O} {Hay V} {días N} {que Q} {me Q} {halaga V}	B	enlace_subj_verb
+Agustini,_Delmira__321~~La_sed__1051_annot	7	{tanta D} {miel N} {, O} {pero C} {hoy A} {me Q} {repugna V} {, O} {me Q} {estraga- V} {. O}	I	enlace_subj_verb
+Agustini,_Delmira__321~~La_sed__1051_annot	8	{Vi V} {pasar V} {por P} {los D} {ojos N} {del P} {hada R} {una D} {centella N} {. O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	9	{Y C} {por P} {un D} {verde G} {valle N} {perfumado G} {y C} {brillante G} {, O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	10	{llevóme V} {hasta P} {una D} {clara G} {corriente N} {de P} {diamantes N} {. O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	11	{- O} {¡ O} {Bebe O} {! O} {- O} {dijo V} {. O} {Yo Q} {ardía G} {; O} {mi D} {pecho N} {era V} {un D} {fragua N} {. O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	12	{Bebí R} {, O} {bebí V} {, O} {bebí V} {la D} {linfa N} {cristalina G} {... O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	13	{¡ O} {Oh O} {frescura N} {! O} {, O} {¡ O} {oh O} {pureza N} {! O} {, O} {¡ O} {oh O} {sensación N} {divina G} {! O}	O
+Agustini,_Delmira__321~~La_sed__1051_annot	14	{-Gracias R} {, O} {maga N} {; O} {y C} {bendita V} {la D} {limpieza N} {del P} {agua N} {. O}	O

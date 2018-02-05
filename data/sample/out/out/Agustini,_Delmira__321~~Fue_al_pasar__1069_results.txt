@@ -1,0 +1,14 @@
+{Yo Q} {creí V} {que C} {tus D} {ojos N} {anegaban V} {el D} {mundo N} {... O}	O		
+{Abiertos N} {como C} {bocas N} {en P} {clamor N} {... O} {Tan A} {dolientes G}	O		
+{que C} {un D} {corazón N} {partido N} {en P} {dos D} {trozos N} {ardientes G}	O		
+{parecieron V} {... O} {Fluían V} {de P} {tu D} {rostro N} {profundo G}	O		
+{como C} {dos D} {manantiales N} {graves G} {y C} {venenosos G} {... O}	O		
+{Fraguas R} {a P} {fuego N} {y C} {sombra N} {, O} {¡ O} {tus D} {pupilas N} {! O} {... O} {tan A} {hondas N}	O		
+{que C} {no A} {sé V} {desde P} {donde C} {me Q} {miraban V} {, O} {redondas G}	O		
+{y C} {oscuras G} {como C} {mundos N} {lontanos G} {y C} {medrosos G} {. O}	O		
+{¡ O} {Ah O} {, O} {tus D} {ojos N} {tristísimos G} {como C} {dos D} {galerías N}	B	sirrem_adj_noun	pp02
+{abiertas G} {al P} {Poniente R} {! O} {... O} {¡ O} {Y C} {las D} {sendas D} {sombrías N}	IB	sirrem_adj_noun;sirrem_noun_prep	pp02;pp06.1
+{de P} {tus D} {ojeras N} {donde Q} {reconocí V} {mis D} {rastros N} {! O} {... O}	I	sirrem_noun_prep	pp06.1
+{¡ O} {Y C} {o C} {envolví V} {en P} {un D} {gran G} {gesto N} {mi D} {horror N} {como C} {en P} {un D} {velo N} {, O}	O		
+{y C} {me Q} {alejé V} {creyendo V} {que C} {cuajaba V} {en P} {el D} {cielo N}	B	enlace_subj_verb	ld01
+{la D} {medianoche N} {húmeda G} {de P} {tu D} {mirar V} {sin P} {astros N} {! O}	I	enlace_subj_verb	ld01

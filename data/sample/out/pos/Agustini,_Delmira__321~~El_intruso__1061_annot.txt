@@ -1,0 +1,14 @@
+{Amor R t1} {, O t2} {la D t3} {noche N t4} {estaba V t5} {trágica G t6} {y C t7} {sollozante G t8}
+{cuando C t9} {tu D t10} {llave N t11} {de P t12} {oro N t13} {cantó V t14} {en P t15} {mi D t16} {cerradura N t17} {; O t18}
+{luego A t19} {, O t20} {la D t21} {puerta N t22} {abierta G t23} {sobre P t24} {la D t25} {sombra N t26} {helante G t27} {, O t28}
+{tu D t29} {sombra N t30} {fue V t31} {una D t32} {mancha N t33} {de P t34} {luz N t35} {y C t36} {de P t37} {blancura N t38} {. O t39}
+{Todo D t40} {aquí A t41} {lo Q t42} {alumbraron V t43} {tus D t44} {ojos N t45} {de P t46} {diamante N t47} {; O t48}
+{bebieron V t49} {en P t50} {mi D t51} {copa N t52} {tus D t53} {labios N t54} {de P t55} {frescura N t56} {, O t57}
+{y C t58} {descansó V t59} {en P t60} {mi D t61} {almohada N t62} {tu D t63} {cabeza N t64} {fragante G t65} {; O t66}
+{me Q t67} {encantó V t68} {tu D t69} {descaro N t70} {y C t71} {adoré V t72} {tu D t73} {locura N t74} {. O t75}
+{Y C t76} {hoy A t77} {río N t78} {si C t79} {tu D t80} {ríes V t81} {, O t82} {y C t83} {canto N t84} {si C t85} {tú Q t86} {cantas V t87} {; O t88}
+{y C t89} {si C t90} {tú Q t91} {duermes N t92} {, O t93} {duermo N t94} {como C t95} {un D t96} {perro N t97} {a P t98} {tus D t99} {plantas N t100} {. O t101}
+{Hoy A t102} {llevo V t103} {hasta P t104} {en P t105} {mi D t106} {sombra N t107} {tu D t108} {olor N t109} {de P t110} {primavera N t111} {; O t112}
+{y C t113} {tiemblo N t114} {si C t115} {tu D t116} {mano N t117} {toca V t118} {la D t119} {cerradura N t120} {, O t121}
+{¡ O t122} {y C t123} {bendigo V t124} {la D t125} {noche N t126} {sollozante G t127} {y C t128} {oscura G t129}
+{que Q t130} {floreció V t131} {en P t132} {mi D t133} {vida N t134} {tu D t135} {boca N t136} {tempranera G t137} {! O t138}

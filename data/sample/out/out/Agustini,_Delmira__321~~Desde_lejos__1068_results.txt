@@ -1,0 +1,14 @@
+{En P} {el D} {silencio N} {siento V} {pasar V} {hora N} {tras P} {hora N} {, O}	O		
+{como C} {un D} {cortejo N} {lento G} {, O} {acompasado G} {y C} {frío G} {... O}	O		
+{¡ O} {Ah O} {! O} {Cuando C} {tú Q} {estás V} {lejos A} {, O} {mi D} {vida N} {toda D} {llora V} {, O}	O		
+{y C} {al P} {rumor N} {de P} {tus D} {pasos N} {hasta P} {en P} {sueños N} {sonrío G} {. O}	O		
+{Yo Q} {sé V} {que C} {volverás. V} {que C} {brillará V} {otra D} {aurora N}	O		
+{en P} {mi D} {horizonte N} {, O} {grave G} {como C} {un D} {ceño N} {sombrío G} {; O}	O		
+{revivirá V} {en P} {mis D} {bosques N} {tu D} {gran G} {risa N} {sonora G}	B	oracional	cp01
+{que Q} {los D} {cruzaba V} {alegre G} {como C} {el D} {cristal N} {de P} {un D} {río N} {. O}	I	oracional	cp01
+{Un D} {día N} {, O} {al P} {encontrarnos V} {tristes G} {en P} {el D} {camino N} {, O}	O		
+{yo Q} {puse V} {entre P} {tus D} {manos N} {pálidas G} {mi D} {destino N}	O		
+{¡ O} {y C} {nada Q} {de P} {más A} {grande G} {jamás A} {han V} {de P} {ofrecerte N} {! O}	O		
+{Mi D} {alma N} {es V} {frente A} {a P} {tu D} {alma N} {como C} {el D} {mar N} {frente A} {al P} {cielo N} {: O}	O		
+{pasarán V} {entre P} {ellas Q} {, O} {tal D} {la D} {sombra N} {de P} {un D} {vuelo N} {, O}	O		
+{¡ O} {la D} {Tormenta R} {y C} {el D} {Tiempo R} {y C} {la D} {Vida R} {y C} {la D} {Muerte R} {! O}	O		

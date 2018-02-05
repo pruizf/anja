@@ -1,0 +1,14 @@
+{¿ O} {Te Q} {acuerdas N} {? O} {El D} {arroyo N} {fue V} {la D} {serpiente N} {buena G} {... O}	O		
+{Fluía V} {triste G} {y C} {triste G} {como C} {un D} {llanto N} {de P} {ciego N} {, O}	O		
+{cuando C} {en P} {las D} {piedras N} {grises G} {donde Q} {arraiga V} {la D} {pena N} {, O}	O		
+{como C} {un D} {inmenso G} {lirio N} {se Q} {levantó V} {tu D} {ruego N} {. O}	O		
+{Mi D} {corazón N} {, O} {la D} {piedra N} {más A} {gris G} {y C} {más A} {serena G} {, O}	O		
+{despertó V} {en P} {la D} {caricia N} {de P} {la D} {corriente N} {y C} {luego A}	B	sirrem_verb_adv	pp11
+{sintió V} {como C} {la D} {tarde N} {, O} {con P} {manos N} {de P} {agarena N} {, O}	I	sirrem_verb_adv	pp11
+{prendía V} {sobre P} {él Q} {una D} {rosa N} {de P} {fuego N} {. O}	O		
+{Y C} {mientras C} {la D} {serpiente N} {del P} {arroyo N} {blandía V}	B	enlace_od_verb	ld02
+{el D} {veneno N} {divino G} {de P} {la D} {melancolía N} {, O}	I	enlace_od_verb	ld02
+{tocada G} {de P} {crepúsculo N} {me Q} {abrumó V} {tu D} {cabeza N} {, O}	O		
+{la D} {coroné N} {de P} {un D} {beso N} {fatal G} {, O} {en P} {la D} {corriente N}	O		
+{vi V} {pasar V} {un D} {cadáver N} {de P} {fuego N} {... O} {Y C} {locamente A}	O		
+{me Q} {derrumbó V} {en P} {tu D} {abrazo N} {profundo G} {la D} {tristeza N} {. O}	O		

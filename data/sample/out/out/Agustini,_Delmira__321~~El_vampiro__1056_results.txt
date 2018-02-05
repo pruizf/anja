@@ -1,0 +1,17 @@
+{En P} {el D} {regazo N} {de P} {la D} {tarde N} {triste G}	O		
+{yo Q} {invoqué V} {tu D} {dolor N} {... O} {Sentirlo R} {era V}	O		
+{¡ O} {sentirse V} {el D} {corazón N} {! O} {Palideciste R}	O		
+{hasta P} {la D} {voz N} {, O} {tus D} {párpados N} {de P} {cera N} {. O}	O		
+{Bajaron V} {... O} {y C} {callaste V} {... O} {Pareciste V}	B	enlace_od_verb	ld02
+{oír V} {pasar V} {la D} {Muerte R} {... O} {Yo Q} {que C} {abriera V}	IB	enlace_od_verb;enlace_subj_verb	ld02;ld01
+{tu D} {herida N} {mordí G} {en P} {ella Q} {- O} {¿ O} {me Q} {sentiste V} {? O} {- O}	I	enlace_subj_verb	ld01
+{¡ O} {Como C} {en P} {el D} {oro N} {de P} {un D} {panal N} {mordiera V} {! O}	O		
+{Y C} {exprimí V} {más A} {, O} {traidora V} {, O} {dulcemente A}	B	enlace_od_verb	ld02
+{tu D} {corazón N} {herido G} {mortalmente A} {, O}	I	enlace_od_verb	ld02
+{por P} {la D} {cruel G} {daga N} {rara G} {y C} {exquisita G}	B	sirrem_adj_prep	pp07
+{de P} {un D} {mal N} {sin P} {nombre N} {, O} {¡ O} {hasta P} {sangrarlo V} {en P} {llanto N} {! O}	I	sirrem_adj_prep	pp07
+{Y C} {las D} {mil D} {bocas N} {de P} {mi D} {sed N} {maldita G}	B	enlace_subj_verb	ld01
+{tendí V} {a P} {esa D} {fuente N} {abierta G} {en P} {tu D} {quebranto G} {. O}	I	enlace_subj_verb	ld01
+{¿ O} {Por P} {qué Q} {fui V} {tu D} {vampiro N} {de P} {amargura N} {? O}	O		
+{¿ O} {Soy V} {flor N} {o C} {estirpe N} {de P} {una D} {especie N} {oscura G}	B	oracional	cp01
+{que Q} {come V} {llagas N} {y C} {que Q} {bebe V} {el D} {llanto N} {? O}	I	oracional	cp01

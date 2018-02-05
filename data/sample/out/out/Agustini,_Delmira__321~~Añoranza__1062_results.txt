@@ -1,0 +1,14 @@
+{Íbamos V} {en P} {la D} {tarde N} {que Q} {caía V}	B	sirrem_verb_adv	pp11
+{rápidamente A} {sobre P} {los D} {caminos N} {. O}	I	sirrem_verb_adv	pp11
+{Su D} {belleza N} {, O} {algo Q} {exótica G} {, O} {ponía V}	B	enlace_od_verb	ld02
+{aspavientos N} {en P} {ojos N} {campesinos G} {. O}	I	enlace_od_verb	ld02
+{-Gozaremos V} {el D} {libro N} {- O} {me Q} {decía V}	O		
+{de P} {tus D} {epigramáticos G} {y C} {finos G}	B	sirrem_adj_noun	pp02
+{versos N} {. O} {En P} {el D} {crepúsculo N} {moría V}	IB	sirrem_adj_noun;enlace_subj_verb	pp02;ld01
+{un D} {desfile N} {de P} {pájaros N} {marinos N} {... O}	I	enlace_subj_verb	ld01
+{Debajo A} {de P} {nosotros Q} {, O} {la D} {espesura N}	B	enlace_subj_verb	ld01
+{aprisionaba V} {en P} {forma N} {de P} {herradura N}	IB	enlace_subj_verb;enlace_od_verb	ld01;ld02
+{la D} {población N} {. O} {Y C} {de P} {un D} {charco N} {amarillo G}	I	enlace_od_verb	ld02
+{surgió V} {la D} {luna N} {de P} {color N} {de P} {argento N} {, O}	O		
+{y C} {a P} {lo D} {lejos A} {, O} {con P} {un D} {recogimiento N}	B	sirrem_adj_noun	pp02
+{sentimental G} {, O} {lloraba V} {un D} {caramillo N} {... O}	I	sirrem_adj_noun	pp02

@@ -1,0 +1,14 @@
+{¡ O t1} {Si C t2} {la D t3} {vida N t4} {es V t5} {amor N t6} {, O t7} {bendita V t8} {sea V t9} {! O t10}
+{¡ O t11} {Quiero V t12} {más A t13} {vida N t14} {para P t15} {amar V t16} {! O t17} {Hoy A t18} {siento V t19}
+{que C t20} {no A t21} {valen V t22} {mil D t23} {años N t24} {de P t25} {la D t26} {idea N t27}
+{lo D t28} {que Q t29} {un D t30} {minuto N t31} {azul G t32} {del P t33} {sentimiento N t34} {. O t35}
+{Mi D t36} {corazón N t37} {moría V t38} {triste G t39} {y C t40} {lento G t41} {... O t42}
+{Hoy A t43} {abre V t44} {en P t45} {luz N t46} {como C t47} {una D t48} {flor N t49} {febea G t50} {; O t51}
+{¡ O t52} {la D t53} {vida N t54} {brota G t55} {como C t56} {un D t57} {mar N t58} {violento G t59}
+{donde Q t60} {la D t61} {mano N t62} {del P t63} {amor N t64} {golpea V t65} {! O t66}
+{Hoy A t67} {, O t68} {partió V t69} {hacia P t70} {la D t71} {noche N t72} {, O t73} {triste G t74} {, O t75} {fría G t76} {, O t77}
+{rotas V t78} {las D t79} {alas N t80} {de P t81} {mi D t82} {melancolía N t83} {; O t84}
+{como C t85} {una D t86} {vieja G t87} {mancha N t88} {del P t89} {dolor N t90}
+{en P t91} {la D t92} {sombra N t93} {lejana G t94} {se Q t95} {deslíe V t96} {... O t97}
+{¡ O t98} {Mi D t99} {vida N t100} {toda D t101} {canta V t102} {, O t103} {besa V t104} {, O t105} {ríe O t106} {! O t107}
+{¡ O t108} {Mi D t109} {vida N t110} {toda D t111} {es V t112} {una D t113} {boca N t114} {en P t115} {flor N t116} {! O t117}

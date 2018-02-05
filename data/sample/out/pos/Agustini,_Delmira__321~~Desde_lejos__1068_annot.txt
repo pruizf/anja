@@ -1,0 +1,14 @@
+{En P t1} {el D t2} {silencio N t3} {siento V t4} {pasar V t5} {hora N t6} {tras P t7} {hora N t8} {, O t9}
+{como C t10} {un D t11} {cortejo N t12} {lento G t13} {, O t14} {acompasado G t15} {y C t16} {frío G t17} {... O t18}
+{¡ O t19} {Ah O t20} {! O t21} {Cuando C t22} {tú Q t23} {estás V t24} {lejos A t25} {, O t26} {mi D t27} {vida N t28} {toda D t29} {llora V t30} {, O t31}
+{y C t32} {al P t33} {rumor N t34} {de P t35} {tus D t36} {pasos N t37} {hasta P t38} {en P t39} {sueños N t40} {sonrío G t41} {. O t42}
+{Yo Q t43} {sé V t44} {que C t45} {volverás. V t46} {que C t47} {brillará V t48} {otra D t49} {aurora N t50}
+{en P t51} {mi D t52} {horizonte N t53} {, O t54} {grave G t55} {como C t56} {un D t57} {ceño N t58} {sombrío G t59} {; O t60}
+{revivirá V t61} {en P t62} {mis D t63} {bosques N t64} {tu D t65} {gran G t66} {risa N t67} {sonora G t68}
+{que Q t69} {los D t70} {cruzaba V t71} {alegre G t72} {como C t73} {el D t74} {cristal N t75} {de P t76} {un D t77} {río N t78} {. O t79}
+{Un D t80} {día N t81} {, O t82} {al P t83} {encontrarnos V t84} {tristes G t85} {en P t86} {el D t87} {camino N t88} {, O t89}
+{yo Q t90} {puse V t91} {entre P t92} {tus D t93} {manos N t94} {pálidas G t95} {mi D t96} {destino N t97}
+{¡ O t98} {y C t99} {nada Q t100} {de P t101} {más A t102} {grande G t103} {jamás A t104} {han V t105} {de P t106} {ofrecerte N t107} {! O t108}
+{Mi D t109} {alma N t110} {es V t111} {frente A t112} {a P t113} {tu D t114} {alma N t115} {como C t116} {el D t117} {mar N t118} {frente A t119} {al P t120} {cielo N t121} {: O t122}
+{pasarán V t123} {entre P t124} {ellas Q t125} {, O t126} {tal D t127} {la D t128} {sombra N t129} {de P t130} {un D t131} {vuelo N t132} {, O t133}
+{¡ O t134} {la D t135} {Tormenta R t136} {y C t137} {el D t138} {Tiempo R t139} {y C t140} {la D t141} {Vida R t142} {y C t143} {la D t144} {Muerte R t145} {! O t146}
