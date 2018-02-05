@@ -37,6 +37,7 @@ For instance, the help file for `run_anja.py` is the following:
     :::text
     usage: run_anja.py [-h] [-b BATCHNAME] [-i INNAME] [-e PREPRO] [-l LOGDIR]
                        [-n NLPDIR] [-p POSDIR] [-o OUTDIR]
+    
     Apply enjambment detection to NLP output
     
     optional arguments:
@@ -45,8 +46,9 @@ For instance, the help file for `run_anja.py` is the following:
                             String representing the name of the batch. (Used to
                             name output files etc.). (default: DEF)
       -i INNAME, --input INNAME
-                            Input dir (contains PoS and term-id annotations
-                            (default: ../enca2texts/enca2out/DEF/DEF_postid)
+                            Input directory containing plain-text poems to
+                            annotate (default:
+                            ../enca2texts/enca2out/DEF/DEF_postid)
       -e PREPRO, --prepro PREPRO
                             Poem without linebreaks (default:
                             data/sample/out/prepro)
@@ -57,11 +59,11 @@ For instance, the help file for `run_anja.py` is the following:
                             Dir containing NLP output (NAF from IXA pipes)
                             (default: ../enca2texts/enca2out/DEF/DEF_parsed)
       -p POSDIR, --posdir POSDIR
-                            Output dir, will contain poem with each tokenannotated
-                            with a POS and term-id (default:
+                            PoS directory: Will contain poem with each token
+                            annotated with part-of-speech, and term-id (default:
                             ../enca2texts/enca2out/DEF/DEF_postid)
       -o OUTDIR, --outdir OUTDIR
-                            Output dir: poem with encabalgamiento annots (default:
+                            Output dir: poem with enjambment annotations (default:
                             ../../enca2texts/enca2out/DEF)
 
 
