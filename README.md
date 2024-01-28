@@ -9,7 +9,7 @@ ANJA performs enjambment detection in Spanish, via rules, based on part-of-speec
 For a full description of the enjambment types the system detects, see the [project's site](https://sites.google.com/site/spanishenjambment/)
 
 ##Enjambment Detection Workflow
-![System Workflow Diagram](https://sites.google.com/site/spanishenjambment/system-details/enca_system_workflow_noblank.png)
+![System Workflow Diagram](https://lh3.googleusercontent.com/uSw9Q_tT5DxG_2HJ0ku5mDMWjJPoDMuzfVswAZR5jnlBxX3y_pDDg9HUxzHldf2kRxXEsTUEFvxNH4tPbE8Mhx91jPolhQpDrtRsrUBTxPP53gCi=w1280)
 
 
 ## Requirements
