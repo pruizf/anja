@@ -1,5 +1,7 @@
 # ANJA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10578321.svg)](https://doi.org/10.5281/zenodo.10578321)
+
 **A**utomatic e**NJ**ambment **A**nalysis in Spanish.
 
 Enjambment takes place when a syntactic unit is broken up across two lines of poetry, which can give rise to different stylistic effects and contributes to poetry's interplay between meter and meaning. 
